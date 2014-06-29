@@ -4,9 +4,9 @@
 Flavio Vinicius Diniz de Figueiredo @ Homepage
 ==============================================
 
-+----------+--------------+-------------+-----------------+------------------------+
-| `About`_ | `Education`_ | `Projects`_ | `Publications`_ | `Open Source Code`_    |
-+----------+--------------+-------------+-----------------+------------------------+
++----------+--------------+-------------+-----------------+------------------------+-----------------------------------+
+| `About`_ | `Education`_ | `Projects`_ | `Publications`_ | `Open Source Code`_    | `CV (PDF form) <papers/cv.pdf>`__ |
++----------+--------------+-------------+-----------------+------------------------+-----------------------------------+
 
 .. footer:: 
     Developed in reST, processed in rst2html.py.
@@ -153,102 +153,127 @@ Conference papers (English)
   Faloutsos |br|
   European Conference on Machine Learning and Principles and Practice of Knowledge
   Discovery - ECML/PKDD 2014 |br|
+  [`PDF <papers/figueiredo2014-pkdd.pdf>`__]
   [`Preprint <http://arxiv.org/abs/1405.1459>`__]
   [`Code <http://github.com/flaviovdf/phoenix>`__]
   |br| |br|
 
-Does Content Determine Information Popularity in Social Media? 
-Flavio Figueiredo, Jussara M. Almeida, Fabricio Benevenuto, Krishna P. Gummadi. 
-ACM Conference on Human Factors in Computing - CHI 2014
-[Download] [Data/Code] [Presentation]
+* *Does Content Determine Information Popularity in Social Media?* |br|
+  Flavio Figueiredo, Jussara M. Almeida, Fabricio Benevenuto, Krishna P. Gummadi. |br|
+  ACM Conference on Human Factors in Computing - CHI 2014 |br|
+  [`PDF <papers/figueiredo2014-chi.pdf>`__] 
+  [`Data/Code <http://github.com/flaviovdf/yourank>`__] 
+  [`Presentation <papers/figueiredo2014-chi-slides.pdf>`__]
+  |br| |br|
 
-On the Prediction of Popularity Trends for User Generated Videos 
-Flavio Figueiredo 
-International Conference on Web Search and Data Mining - WSDM 2013
-[Download]
+* *On the Prediction of Popularity Trends for User Generated Videos*  |br|
+  Flavio Figueiredo  |br|
+  International Conference on Web Search and Data Mining - WSDM 2013 |br|
+  [`PDF <papers/figueiredo2013-wsdmdoc.pdf>`__]
+  |br| |br|
 
-Content Popularity Evolution in OSNs
-Flavio Figueiredo, Fabricio Benevenuto, Jussara Almeida
-In Thesis and Disserations Workshop - WebMedia 2011 
-[Download]
+* *Content Popularity Evolution in OSNs* |br|
+  Flavio Figueiredo, Fabricio Benevenuto, Jussara Almeida |br|
+  In Thesis and Disserations Workshop - WebMedia 2011  |br|
+  [`PDF <papers/figueiredo2011-wtd.pdf>`__]
+  |br| |br|
 
-The Tube over Time: Characterizing Popularity Growth of YouTube Videos
-Flavio Figueiredo, Fabricio Benevenuto, Jussara Almeida
-ACM International Conference on Web Search and Data Mining - WSDM 2011 
-[Download] [Data] [PosterPDF] [PPT][Code]
+* *The Tube over Time: Characterizing Popularity Growth of YouTube Videos* |br|
+  Flavio Figueiredo, Fabricio Benevenuto, Jussara Almeida |br|
+  ACM International Conference on Web Search and Data Mining - WSDM 2011  |br|
+  [`PDF <papers/figueiredo2011-wsdm.pdf>`__]
+  [`Poster PDF <papers/figueiredo2011-wsdm-poster.pdf>`__]
+  [`Poster PPT <papers/figueiredo2011-wsdm-poster.ppt>`__]
+  [`Data <http://vod.dcc.ufmg.br/traces/youtime>`__]
+  [`Code <http://github.com/flaviovdf/youtime>`__]
+  |br| |br|
 
-Assessing the Value of Contributions in Tagging Systems 
-Elizeu Santos-Neto, Flavio Figueiredo, Jussara Almeida, Miranda Mowbray, Marcos
-Gonçalves, Matei Ripeanu
-IEEE International Symposium on Social Intelligence and Networking - SIN'2010
-[Download]
+* *Assessing the Value of Contributions in Tagging Systems* |br|
+  Elizeu Santos-Neto, Flavio Figueiredo, Jussara Almeida, Miranda Mowbray, Marcos
+  Gonçalves, Matei Ripeanu |br|
+  IEEE International Symposium on Social Intelligence and Networking - SIN'2010 |br|
+  [`PDF <papers/santosneto2010-sin.pdf>`__]
+  |br| |br|
 
-Evidence of Quality of Textual Features on the Web 2.0
-Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos
-Gonçalves, David Fernandes, Edleno Moura, Marco Cristo. 
-ACM Conference on Information and Knowledge Management - CIKM 2009
-[Download] [Presentation]
+* *Evidence of Quality of Textual Features on the Web 2.0* |br|
+  Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos
+  Gonçalves, David Fernandes, Edleno Moura, Marco Cristo.  |br|
+  ACM Conference on Information and Knowledge Management - CIKM 2009 |br|
+  [`PDF <papers/figueiredo2009-cikm.pdf>`__]
+  [`Presentation <papers/figueiredo2009-cikm-slides.pdf>`__]
+  |br| |br|
 
-On the Planning of a Hybrid IT Infrastructure
-Paulo Ditarso, Flavio de Figueiredo, David Candeia, Francisco Brasileiro, Alvaro
-Coelho. 
-Network Operations and Management Symposium - NOMS 2008
-[Download]
+* *On the Planning of a Hybrid IT Infrastructure* |br|
+  Paulo Ditarso, Flavio de Figueiredo, David Candeia, Francisco Brasileiro, Alvaro
+  Coelho.  |br|
+  Network Operations and Management Symposium - NOMS 2008 |br|
+  [`PDF <papers/diatrso2008-noms.pdf>`__]
+  |br| |br|
 
-On the Impact of Choice in Multi-Service P2P Grids
-Alvaro Coelho, Paulo Ditarso., Flavio de Figueiredo, David Candeia, Francisco
-Brasileiro
-Workshop on Business Driven IT Management held in conjunction with the Network
-Operations and Management Symposium  - NOMS 2008
-[Download]
+* *On the Impact of Choice in Multi-Service P2P Grids* |br|
+  Alvaro Coelho, Paulo Ditarso., Flavio de Figueiredo, David Candeia, Francisco
+  Brasileiro |br|
+  Workshop on Business Driven IT Management held in conjunction with the Network
+  Operations and Management Symposium  - NOMS 2008 |br|
+  [`PDF <papers/coelho2008-bdim.pdf>`__]
+  |br| |br|
 
-Bridging the High Performance Computing Gap: the OurGrid Experience
-Francisco Brasileiro, Eliane Araújo, William Voorsluys, Milena Oliveira, Flavio
-Figueiredo
-Latin America Grid Workshop - LAGrid07, held in conjunction with CCGrid 2007
-[Download]
+* *Bridging the High Performance Computing Gap: the OurGrid Experience* |br|
+  Francisco Brasileiro, Eliane Araújo, William Voorsluys, Milena Oliveira, Flavio
+  Figueiredo |br|
+  Latin America Grid Workshop - LAGrid07, held in conjunction with CCGrid 2007 |br|
+  [`PDF <papers/brasileiro2007-latam.pdf>`__]
+  |br| |br|
 
-Implementing a Distributed Execution Service for a Grid Broker
-Flavio Figueiredo, Francisco V. Brasileiro, Andrey E. Brito. 
-Fault Tolerance Workshop in conjunction with the Brazilian Symposium of Computer
-Networks
-[Download]
+* *Implementing a Distributed Execution Service for a Grid Broker* |br|
+  Flavio Figueiredo, Francisco V. Brasileiro, Andrey E. Brito.  |br|
+  Fault Tolerance Workshop in conjunction with the Brazilian Symposium of Computer
+  Networks |br|
+  [`PDF <papers/figueiredo2006-wtf.pdf>`__]
+  |br| |br|
 
 Conference papers (Portuguese)
 ------------------------------
 
-GreenWeb: Melhorando a Qualidade da Informação na Web 2.0
-Jussara M. Almeida, Marcos A. Gonçalves, Raquel O. Prates, Daniel Hasan, Dílson
-Guimarães, Diogo R. de Oliveira, Fabiano Belém, Flavio Figueiredo, Hendrickson
-Langbehn, Henrique Pinto, Raquel Lara, Saulo Ricci, Fabrício Benevenuto. 
-XXXVIII Seminário Integrado de Software e Hardware (Semish)
+* *GreenWeb: Melhorando a Qualidade da Informação na Web 2.0* |br|
+  Jussara M. Almeida, Marcos A. Gonçalves, Raquel O. Prates, Daniel Hasan, Dílson
+  Guimarães, Diogo R. de Oliveira, Fabiano Belém, Flavio Figueiredo, Hendrickson
+  Langbehn, Henrique Pinto, Raquel Lara, Saulo Ricci, Fabrício Benevenuto. |br|
+  Seminário Integrado de Software e Hardware (Semish) - 2011 
+  |br| |br|
 
-Caracterizando o Uso e a Qualidade dos Atributos Textuais da Web 2.0
-Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos
-Gonçalves, David Fernandes, Edleno Moura, Marco Critso. 
-Simpósio Brasileiro de Sistemas Multimídia e Web - Webmedia 2009
-[Download]
+* *Caracterizando o Uso e a Qualidade dos Atributos Textuais da Web 2.0* |br|
+  Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos
+  Gonçalves, David Fernandes, Edleno Moura, Marco Critso. |br|
+  Simpósio Brasileiro de Sistemas Multimídia e Web - Webmedia 2009 |br|
+  [Download]
+  |br| |br|
 
-Um portifolio de segurança para um sistema de grade entre pares de livre
-entrada 
-Flavio Figueiredo, Matheus Gaudêncio, Thiago Emmanuel, Rodrigo Miranda,
-Francisco Brasileiro. 
-Workshop on Grid Computing and Applications
-[Download]
+* *Um portifolio de segurança para um sistema de grade entre pares de livre
+  entrada* |br|
+  Flavio Figueiredo, Matheus Gaudêncio, Thiago Emmanuel, Rodrigo Miranda,
+  Francisco Brasileiro. |br|
+  Workshop on Grid Computing and Applications |br|
+  [Download]
+  |br| |br|
 
-Girafas: Uma Ferramenta Computacional para Apoio no Ensino de Algoritmos
-Genéticos
-Flávio Roberto Santos, Flavio Figueiredo, Vinicius F. C. Florentino, Joseana
-Macêdo Fechine
-Proceedings of the III Brazilian Symposium of Information Systems
-[Download]
+* *Girafas: Uma Ferramenta Computacional para Apoio no Ensino de Algoritmos
+  Genéticos* |br|
+  Flávio Roberto Santos, Flavio Figueiredo, Vinicius F. C. Florentino, Joseana
+  Macêdo Fechine |br|
+  Proceedings of the III Brazilian Symposium of Information Systems |br|
+  [Download]
+  |br| |br|
 
 Thesis, Dissertations and Proposals
 -----------------------------------
 
-Evidências de Qualidade de Atributos Textuais na Web 2.0
-Flavio Figueiredo
-[Download] [Presentation] [PPTX]
+* *Evidências de Qualidade de Atributos Textuais na Web 2.0* |br|
+  Flavio Figueiredo |br|
+  [Download] 
+  [Presentation] 
+  [PPTX]
+  |br| |br|
 
 Open Source Code
 ================
