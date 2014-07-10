@@ -126,7 +126,7 @@ Journal papers (English)
   Marcos Gonçalves, David Fernandes, Edleno Moura. |br|
   Information Processing Management.
   http://dx.doi.org/10.1016/j.ipm.2012.03.003 |br|
-  [`PDF <papers/figueiredo2013-ipm.pdf>`__]
+  [`PDF <papers/figueiredo2012-ipm.pdf>`__]
   |br| |br|
 
 * *On the Quality of Information for Web 2.0 Services* |br|
@@ -134,7 +134,7 @@ Journal papers (English)
   Henrique Pinto |br|
   IEEE Internet Computing, vol. 14, no. 6, pp. 47-55, Nov./Dec. 2010,
   http://doi:10.1109/MIC.2010.102 |br|
-  [`PDF <papers/almeida2010-ieeic.pdf>`__]
+  [`PDF <papers/almeida2010-ieee.pdf>`__]
   |br| |br|
 
 Conference papers (English)
@@ -149,20 +149,21 @@ Conference papers (English)
   |br| |br|
 
 * *Revisit Behavior in Social Media: The Phoenix-R Model and Discoveries* |br| 
-  Flavio Figueiredo, Jussara M. Almeida, Yasuko Matsubara, Bruno Ribeiro, Christos
-  Faloutsos |br|
-  European Conference on Machine Learning and Principles and Practice of Knowledge
-  Discovery - ECML/PKDD 2014 |br|
+  Flavio Figueiredo, Jussara M. Almeida, Yasuko Matsubara, Bruno Ribeiro, 
+  Christos Faloutsos |br|
+  European Conference on Machine Learning and Principles and Practice of 
+  Knowledge Discovery - ECML/PKDD 2014 |br|
   [`PDF <papers/figueiredo2014-pkdd.pdf>`__]
   [`Preprint <http://arxiv.org/abs/1405.1459>`__]
   [`Code <http://github.com/flaviovdf/phoenix>`__]
   |br| |br|
 
 * *Does Content Determine Information Popularity in Social Media?* |br|
-  Flavio Figueiredo, Jussara M. Almeida, Fabricio Benevenuto, Krishna P. Gummadi. |br|
+  Flavio Figueiredo, Jussara M. Almeida, Fabricio Benevenuto, 
+  Krishna P. Gummadi. |br|
   ACM Conference on Human Factors in Computing - CHI 2014 |br|
-  [`PDF <papers/figueiredo2014-chi.pdf>`__] 
-  [`Data/Code <http://github.com/flaviovdf/yourank>`__] 
+  [`PDF <papers/figueiredo2014-chi.pdf>`__]
+  [`Data/Code <http://github.com/flaviovdf/yourank>`__]
   [`Presentation <papers/figueiredo2014-chi-slides.pdf>`__]
   |br| |br|
 
@@ -191,7 +192,8 @@ Conference papers (English)
 * *Assessing the Value of Contributions in Tagging Systems* |br|
   Elizeu Santos-Neto, Flavio Figueiredo, Jussara Almeida, Miranda Mowbray, Marcos
   Gonçalves, Matei Ripeanu |br|
-  IEEE International Symposium on Social Intelligence and Networking - SIN'2010 |br|
+  IEEE International Symposium on Social Intelligence and Networking - 
+  SIN'2010 |br|
   [`PDF <papers/santosneto2010-sin.pdf>`__]
   |br| |br|
 
@@ -200,14 +202,14 @@ Conference papers (English)
   Gonçalves, David Fernandes, Edleno Moura, Marco Cristo.  |br|
   ACM Conference on Information and Knowledge Management - CIKM 2009 |br|
   [`PDF <papers/figueiredo2009-cikm.pdf>`__]
-  [`Presentation <papers/figueiredo2009-cikm-slides.pdf>`__]
+  [`Presentation <papers/figueiredo2009-cikm-slides.ppt>`__]
   |br| |br|
 
 * *On the Planning of a Hybrid IT Infrastructure* |br|
   Paulo Ditarso, Flavio de Figueiredo, David Candeia, Francisco Brasileiro, Alvaro
   Coelho.  |br|
   Network Operations and Management Symposium - NOMS 2008 |br|
-  [`PDF <papers/diatrso2008-noms.pdf>`__]
+  [`PDF <papers/ditarso2008-noms.pdf>`__]
   |br| |br|
 
 * *On the Impact of Choice in Multi-Service P2P Grids* |br|
@@ -246,7 +248,7 @@ Conference papers (Portuguese)
   Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos
   Gonçalves, David Fernandes, Edleno Moura, Marco Critso. |br|
   Simpósio Brasileiro de Sistemas Multimídia e Web - Webmedia 2009 |br|
-  [Download]
+  [`PDF <papers/figueiredo2009-webmedia.pdf>`__]
   |br| |br|
 
 * *Um portifolio de segurança para um sistema de grade entre pares de livre
@@ -254,7 +256,7 @@ Conference papers (Portuguese)
   Flavio Figueiredo, Matheus Gaudêncio, Thiago Emmanuel, Rodrigo Miranda,
   Francisco Brasileiro. |br|
   Workshop on Grid Computing and Applications |br|
-  [Download]
+  [`PDF <papers/figueiredo2008-wgca.pdf>`__]
   |br| |br|
 
 * *Girafas: Uma Ferramenta Computacional para Apoio no Ensino de Algoritmos
@@ -262,7 +264,7 @@ Conference papers (Portuguese)
   Flávio Roberto Santos, Flavio Figueiredo, Vinicius F. C. Florentino, Joseana
   Macêdo Fechine |br|
   Proceedings of the III Brazilian Symposium of Information Systems |br|
-  [Download]
+  [`DOC <papers/girafas_sbsi2006.doc>`__]
   |br| |br|
 
 Thesis, Dissertations and Proposals
@@ -270,9 +272,7 @@ Thesis, Dissertations and Proposals
 
 * *Evidências de Qualidade de Atributos Textuais na Web 2.0* |br|
   Flavio Figueiredo |br|
-  [Download] 
-  [Presentation] 
-  [PPTX]
+  [`PDF <papers/mestrado.pdf>`__]
   |br| |br|
 
 Open Source Code
