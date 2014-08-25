@@ -116,7 +116,8 @@ Journal papers (English)
 * *On the Dynamics of Social Media Popularity: A YouTube Case Study* |br|
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, 
   Fabrício Benevenuto |br|
-  Under Review. |br| 
+  Accepted for publication on ACM Transactions on Internet Technology (TOIT). |br|
+  [`PDF <papers/figueiredo2014-toit.pdf>`__]
   [`Preprint <http://arxiv.org/abs/1402.1777>`__] 
   [`Data <http://vod.dcc.ufmg.br/traces/youtime>`__]
   |br| |br|
@@ -137,8 +138,15 @@ Journal papers (English)
   [`PDF <papers/almeida2010-ieee.pdf>`__]
   |br| |br|
 
-Conference papers (English)
----------------------------
+Conference and workshop papers (English)
+----------------------------------------
+
+* *Improving the Effectiveness of Content Popularity 
+  Prediction Methods using Time Series Trends* |br|
+  Flavio Figueiredo, Marcos André and Jussara M. Almeida |br|
+  ECML/PKDD Predictive Analytics Challenge |br|
+  [`PDF <papers/figueiredo2014-challenge.pdf>`__]
+  |br| |br|
 
 * *Characterizing Scholar Popularity: A Case Study in the Computer Science 
   Research Community* |br|
