@@ -164,6 +164,7 @@ Conference and workshop papers (English)
   [`PDF <papers/figueiredo2014-pkdd.pdf>`__]
   [`Preprint <http://arxiv.org/abs/1405.1459>`__]
   [`Code <http://github.com/flaviovdf/phoenix>`__]
+  [`Presentation <papers/figueiredo2014-pkdd-slides.pdf>`__]
   |br| |br|
 
 * *Does Content Determine Information Popularity in Social Media?* |br|
