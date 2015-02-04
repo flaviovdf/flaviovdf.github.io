@@ -5,7 +5,7 @@ Flavio Vinicius Diniz de Figueiredo @ Homepage
 ==============================================
 
 +----------+--------------+-------------+-----------------+------------------------+-----------------------------------+
-| `About`_ | `Education`_ | `Projects`_ | `Publications`_ | `Open Source Code`_    | `CV (PDF form) <papers/cv.pdf>`__ |
+| `About`_ | `Education`_ | `Projects`_ | `Publications`_ | `Open Source Code`_    | `CV (PDF) <papers/cv.pdf>`__ |
 +----------+--------------+-------------+-----------------+------------------------+-----------------------------------+
 
 .. footer:: 
