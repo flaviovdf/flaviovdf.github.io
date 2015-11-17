@@ -4,9 +4,9 @@
 Flavio Vinicius Diniz de Figueiredo @ Homepage
 ==============================================
 
-+----------+--------------+-------------+-----------------+------------------------+------------------------------+
-| `About`_ | `Education`_ | `Projects`_ | `Publications`_ | `Open Source Code`_    | `CV (PDF) <papers/cv.pdf>`__ |
-+----------+--------------+-------------+-----------------+------------------------+------------------------------+
++------------+--------------+-------------+-----------------+------------------------+------------------------------+
+| `About`_ | `Education`_ | `Experience`_ | `Publications`_ | `Open Source Code`_    | `CV (PDF) <papers/cv.pdf>`__ |
++------------+--------------+-------------+-----------------+------------------------+------------------------------+
 
 .. footer:: 
     Developed in reST, processed in rst2html.py.
@@ -22,16 +22,16 @@ Flavio Vinicius Diniz de Figueiredo @ Homepage
 About
 =====
 
-Hello and welcome to my home page. I am currently a PhD student at the 
+Hello and welcome to my home page. I have recently finished my PhD at the 
 `Graduate Program in Computer Science <http://dcc.ufmg.br>`_ from the
-`Federal University of Minas Gerais <http://ufmg.br>`_. My advisor is Prof. 
+`Federal University of Minas Gerais <http://ufmg.br>`_. My advisor was Prof. 
 Jussara Marques de Almeida.
 
 My research interests are:
 
-    * Social media
-    * Online user behavior
     * Data mining
+    * Online user behavior
+    * Social media
     * Information retrieval
 
 In the past I have worked with:
@@ -50,17 +50,30 @@ Around the web you can find me on `Github <http://github.com/flaviovdf>`_.
 Education
 =========
 
-1. (In Progress) PhD in Computer Science (`Federal University of Minas Gerais
+1. PhD in Computer Science (`Federal University of Minas Gerais
    <http://ufmg.br>`_)
 2. MSc in Computer Science (`Federal University of Minas Gerais 
    <http://ufmg.br>`_)
 3. BSc in Computer Science (`Federal University of Campina Grande
    <http://ufcg.edu.br>`_)
 
-Projects
-========
+Experience
+==========
 
-* PhD Student (Currently)
+* Research Staff Member @ IBM Research Brazil
+    
+  * Summary: Part of the social media analytics group. More to
+    information to come!
+
+* Pos-doc Researcher/Developer (07/2015 to 11/2015)
+    
+    * Summary: Supervised students in research projects related to data mining.
+      Also performed post-graduate research on: data mining, tensor
+      decomposition and graphical models.
+    
+    * Supervisor: `Nazareno Andrade <http://lsd.ufcg.edu.br/~nazareno>`_
+
+* PhD Student (06/2011 to 06/2015)
     
     * Summary: Researching social media popularity, time series, and user
       behavior online.
@@ -105,6 +118,13 @@ Publications
 Journal papers (English)
 ------------------------
 
+* *Mining User Attention Flows in Online Music Listening* |br|
+  Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
+  Nazareno Andrade, Christos Faloutsos |br|
+  Under Review. |br|
+  [Pre-Print Soon]
+  |br| |br|
+
 * *TrendLearner: Early Prediction of Popularity Trends of User Generated
   Content* |br|
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, 
@@ -140,6 +160,19 @@ Journal papers (English)
 
 Conference and workshop papers (English)
 ----------------------------------------
+
+* *TribeFlow: Mining & Predicting User Trajectories* |br|
+  Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
+  Christos Faloutsos |br|
+  Under Review. |br|
+  [`Preprint <http://arxiv.org/abs/1511.01032>`__]
+  |br| |br|
+
+* *Modeling and Mining Information Popularity Online* |br|
+  Flavio Figueiredo |br|
+  Netsci-X |br|
+  [`PDF <papers/figueiredo2015-netscix.pdf>`__]
+  |br| |br|
 
 * *Improving the Effectiveness of Content Popularity 
   Prediction Methods using Time Series Trends* |br|
@@ -245,6 +278,13 @@ Conference and workshop papers (English)
 
 Conference papers (Portuguese)
 ------------------------------
+
+* *Uma Caracterização dos Padrões de Navegação de Usuários em uma Aplicação
+  Social de Streaming de Vídeo* |br|
+  Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida
+  Brazilian Workshop on Social Network Analysis and Mining (BraSNAM) |br|
+  [`PDF <papers/arantes2015-brasnam.pdf>`__]
+  |br| |br|
 
 * *GreenWeb: Melhorando a Qualidade da Informação na Web 2.0* |br|
   Jussara M. Almeida, Marcos A. Gonçalves, Raquel O. Prates, Daniel Hasan, Dílson
