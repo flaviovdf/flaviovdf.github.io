@@ -136,7 +136,7 @@ Journal papers (English)
 * *On the Dynamics of Social Media Popularity: A YouTube Case Study* |br|
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, 
   Fabrício Benevenuto |br|
-  Accepted for publication on ACM Transactions on Internet Technology (TOIT). |br|
+  ACM Transactions on Internet Technology (TOIT). |br|
   [`PDF <papers/figueiredo2014-toit.pdf>`__]
   [`Preprint <http://arxiv.org/abs/1402.1777>`__] 
   [`Data <http://vod.dcc.ufmg.br/traces/youtime>`__]
@@ -164,7 +164,7 @@ Conference and workshop papers (English)
 * *TribeFlow: Mining & Predicting User Trajectories* |br|
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
   Christos Faloutsos |br|
-  Under Review. |br|
+  ACM World Wide Web Conference - WWW 2016 |br|
   [`Preprint <http://arxiv.org/abs/1511.01032>`__]
   |br| |br|
 
