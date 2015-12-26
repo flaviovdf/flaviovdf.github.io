@@ -170,14 +170,14 @@ Conference and workshop papers (English)
 
 * *Modeling and Mining Information Popularity Online* |br|
   Flavio Figueiredo |br|
-  Netsci-X |br|
+  Netsci-X - 2015 |br|
   [`PDF <papers/figueiredo2015-netscix.pdf>`__]
   |br| |br|
 
 * *Improving the Effectiveness of Content Popularity 
   Prediction Methods using Time Series Trends* |br|
   Flavio Figueiredo, Marcos André and Jussara M. Almeida |br|
-  ECML/PKDD Predictive Analytics Challenge |br|
+  ECML/PKDD Predictive Analytics Challenge - 2014 |br|
   [`PDF <papers/figueiredo2014-challenge.pdf>`__]
   |br| |br|
 
@@ -316,10 +316,20 @@ Conference papers (Portuguese)
   [`DOC <papers/girafas_sbsi2006.doc>`__]
   |br| |br|
 
-Thesis, Dissertations and Proposals
------------------------------------
+Dissertations
+-------------
 
-* *Evidências de Qualidade de Atributos Textuais na Web 2.0* |br|
+* *(PhD) Understanding, Modeling and Predicting the Popularity of Online 
+  Content on Social Media Applications* |br|
+  Flavio Figueiredo |br|
+  [`PDF <papers/figueiredo2015-dissertation.pdf>`__]
+  [`Presentation <papers/phd_defense.pdf>`__]
+  |br| |br|
+
+
+* *(MsC) Evidências de Qualidade de Atributos Textuais na Web 2.0* |br|
+  Portuguese only, but check out [`this <papers/figueiredo2012-ipm.pdf>`__]
+  paper for a version (journal paper style) in english.
   Flavio Figueiredo |br|
   [`PDF <papers/mestrado.pdf>`__]
   |br| |br|
