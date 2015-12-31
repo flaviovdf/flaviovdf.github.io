@@ -39,7 +39,7 @@ In the past I have worked with:
     * Grid Computing (`Ourgrid <http://ourgrid.org>`_)
     * P2P Computing
     * Cloud Computing (we called it Utility Computing or 
-      Business Driven IT Management at the time :))
+      Business Driven IT Management at the time)
 
 These previous projects were mostly done at the `Federal University of Campina
 Grande <http://ufcg.edu.br>`_, where I did my `BSc in Computer Science
