@@ -116,8 +116,8 @@ Experience
 Publications
 ============
 
-Journal papers (English)
-------------------------
+Journal papers and submissions (English)
+----------------------------------------
 
 * *Mining User Attention Flows in Online Music Listening* |br|
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
@@ -167,6 +167,7 @@ Conference and workshop papers (English)
   Christos Faloutsos |br|
   ACM World Wide Web Conference - WWW 2016 |br|
   [`Preprint <http://arxiv.org/abs/1511.01032>`__]
+  [`Code/Data <http://flaviovdf.github.io/tribeflow>`__]
   |br| |br|
 
 * *Modeling and Mining Information Popularity Online* |br|
@@ -277,12 +278,23 @@ Conference and workshop papers (English)
   [`PDF <papers/figueiredo2006-wtf.pdf>`__]
   |br| |br|
 
+Tech Reports and Work in Progress
+---------------------------------
+
+* *Assessing the Value of Peer-Produced Information for Exploratory Search*
+  |br|
+  Elizeu Santos-Neto, Flavio Figueiredo, Nigini Oliveira, Nazareno Andrade,
+  Jussara Almeida, Matei Ripeanu |br|
+  [`Arxiv <http://arxiv.org/abs/1510.03004>`__]
+  [`Code <http://github.com/flaviovdf/tag_assess>`__]
+  |br| |br|
+
 Conference papers (Portuguese)
 ------------------------------
 
 * *Uma Caracterização dos Padrões de Navegação de Usuários em uma Aplicação
   Social de Streaming de Vídeo* |br|
-  Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida
+  Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida |br|
   Brazilian Workshop on Social Network Analysis and Mining (BraSNAM) |br|
   [`PDF <papers/arantes2015-brasnam.pdf>`__]
   |br| |br|
