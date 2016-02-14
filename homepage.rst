@@ -63,7 +63,7 @@ Experience
 
 * Research Staff Member @ IBM Research Brazil
     
-  * Summary: Part of the social media analytics group. More to
+  * Summary: Part of the social media analytics group. More
     information to come!
 
 * Pos-doc Researcher/Developer (07/2015 to 11/2015)
@@ -130,7 +130,7 @@ Journal papers and submissions (English)
   Content* |br|
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, 
   Fabrício Benevenuto |br|
-  Under Review. |br|
+  Elsevier Information Sciences - To Appear. |br|
   [`Preprint <http://arxiv.org/abs/1402.2351>`__]
   |br| |br|
 
@@ -172,7 +172,7 @@ Conference and workshop papers (English)
 
 * *Modeling and Mining Information Popularity Online* |br|
   Flavio Figueiredo |br|
-  Netsci-X - 2015 |br|
+  Netsci-X (Presentation only) - 2015 |br|
   [`PDF <papers/figueiredo2015-netscix.pdf>`__]
   |br| |br|
 
