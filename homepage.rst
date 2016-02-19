@@ -166,6 +166,7 @@ Conference and workshop papers (English)
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
   Christos Faloutsos |br|
   ACM World Wide Web Conference - WWW 2016 |br|
+  [`PDF <papers/figueiredo2016-www.pdf>`__]
   [`Preprint <http://arxiv.org/abs/1511.01032>`__]
   [`Code/Data <http://flaviovdf.github.io/tribeflow>`__]
   |br| |br|
