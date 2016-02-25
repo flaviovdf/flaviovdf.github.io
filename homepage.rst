@@ -173,8 +173,9 @@ Conference and workshop papers (English)
 
 * *Building a Question-Answering Corpus using Social Media and News Articles* |br|
   Paulo Cavalin, Flavio Figueiredo, Maira Gatti de Bayser, Luis Moyano,
-  Heloisa Candello, Ana Appel and Renan Souza |br|
-  International Conference on the Computational Processing of Portuguese Conference - Propor 2016 |br|
+  |br| Heloisa Candello, Ana Appel and Renan Souza |br|
+  International Conference on the Computational Processing of Portuguese
+  Language - PROPOR 2016 |br|
   [PDF Soon]
   |br| |br|
 
