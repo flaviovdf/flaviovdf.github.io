@@ -130,7 +130,7 @@ Journal papers and submissions (English)
   Content* |br|
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, 
   Fabrício Benevenuto |br|
-  Elsevier Information Sciences - To Appear. |br|
+  Elsevier Information Sciences |br|
   [`Preprint <http://arxiv.org/abs/1402.2351>`__]
   [`Online <http://dx.doi.org/10.1016/j.ins.2016.02.025>`__]
   |br| |br|
