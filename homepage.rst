@@ -132,6 +132,7 @@ Journal papers and submissions (English)
   Fabrício Benevenuto |br|
   Elsevier Information Sciences - To Appear. |br|
   [`Preprint <http://arxiv.org/abs/1402.2351>`__]
+  [`Online <http://dx.doi.org/10.1016/j.ins.2016.02.025>`__]
   |br| |br|
 
 * *On the Dynamics of Social Media Popularity: A YouTube Case Study* |br|
