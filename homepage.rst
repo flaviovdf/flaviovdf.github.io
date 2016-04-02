@@ -172,6 +172,13 @@ Conference and workshop papers (English)
   [`Code/Data <http://flaviovdf.github.io/tribeflow>`__]
   |br| |br|
 
+* *Understanding Video-Ad Consumption on YouTube: A Measurement Study on User
+  Behavior, Popularity, and Content Properties.* |br|
+  Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida |br|
+  ACM Web Science Conference - WebSci 2016 |br|
+  [PDF Soon]
+  |br| |br|
+
 * *Building a Question-Answering Corpus using Social Media and News Articles* |br|
   Paulo Cavalin, Flavio Figueiredo, Maira Gatti de Bayser, Luis Moyano,
   |br| Heloisa Candello, Ana Appel and Renan Souza |br|
