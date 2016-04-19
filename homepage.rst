@@ -170,6 +170,7 @@ Conference and workshop papers (English)
   [`PDF <papers/figueiredo2016-www.pdf>`__]
   [`Preprint <http://arxiv.org/abs/1511.01032>`__]
   [`Code/Data <http://flaviovdf.github.io/tribeflow>`__]
+  [`Presentation <papers/figueiredo2016-www-slides.pptx>`__]
   |br| |br|
 
 * *Understanding Video-Ad Consumption on YouTube: A Measurement Study on User
