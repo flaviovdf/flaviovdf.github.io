@@ -131,6 +131,7 @@ Journal papers and submissions (English)
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, 
   Fabrício Benevenuto |br|
   Elsevier Information Sciences |br|
+  [`PDF <papers/figueiredo2016-trendlearner.pdf>`__]
   [`Preprint <http://arxiv.org/abs/1402.2351>`__]
   [`Online <http://dx.doi.org/10.1016/j.ins.2016.02.025>`__]
   |br| |br|
@@ -371,17 +372,4 @@ Open Source Code
 Code used in publication can be found above, in the `Publications`_ section.
 You can find most of my other code on `Github <http://github.com/flaviovdf>`_.
 I try my best to have code and data available with publication, but if you 
-think something is missing, let me know. Other open sourced projects worth
-mentioning are below:
-
-Spiderpig
----------
-
-Distributed web crawler which I use to crawl most of my data. See
-http://github.com/flaviovdf/spiderpig
-
-PyKSC
------
-
-KSpectral Time series clustering in python. See
-http://github.com/flaviovdf/pyksc
+think something is missing, let me know. 
