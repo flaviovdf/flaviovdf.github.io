@@ -178,7 +178,7 @@ Conference and workshop papers (English)
   Behavior, Popularity, and Content Properties.* |br|
   Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida |br|
   ACM Web Science Conference - WebSci 2016 |br|
-  [PDF Soon]
+  [`PDF <papers/arantes2016-websci.pdf>`__]
   |br| |br|
 
 * *Building a Question-Answering Corpus using Social Media and News Articles* |br|
