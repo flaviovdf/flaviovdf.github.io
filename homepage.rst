@@ -1,72 +1,43 @@
 .. rst2html --stylesheet=style.css homepage.rst > index.html
 
-==============================================
-Flavio Vinicius Diniz de Figueiredo @ Homepage
-==============================================
-
-+------------+--------------+---------------+-----------------+------------------------+------------------------------+
-| `About`_   | `Education`_ | `Experience`_ | `Publications`_ | `Open Source Code`_    | `CV (PDF) <papers/cv.pdf>`__ |
-+------------+--------------+---------------+-----------------+------------------------+------------------------------+
-
 .. footer:: 
     Developed in reST, processed in rst2html.py.
     Make's use of the CSS sheet by cskeeters:
     http://bitbucket.org/cskeeters/rst2html-style.
-    Original document is available at:
-    http://github.com/flaviovdf/flaviovdf.github.io
 
 .. |br| raw:: html
    
     <br />
 
-About
-=====
++---------------+-----------------+----------------+-----------------+
+| `Experience`_ | `Publications`_ | `Open Source`_ | `CV <cv.pdf>`__ |
++---------------+-----------------+----------------+-----------------+
 
-Hello and welcome to my home page. I have recently finished my PhD at the 
-`Graduate Program in Computer Science <http://dcc.ufmg.br>`_ from the
-`Federal University of Minas Gerais <http://ufmg.br>`_. My advisor was Prof. 
-Jussara Marques de Almeida.
+Flavio Figueiredo
+=================
 
+Hello and welcome to my home page. 
+I hold a PhD and a MsC in Computer Science from the
+`Federal University of Minas Gerais <http://ufmg.br>`__,
+as well as a BsC also in Computer Science from the
+`Federal University of Campina Grande <http://ufcg.edu.br>`__.
+Currently, I work as a researcher at IBM Research Rio de Janeiro.
 My research interests are:
 
-    * Data mining
+    * Data science
     * Online user behavior
     * Social media
-    * Information retrieval
-
-In the past I have worked with:
-
-    * Grid Computing (`Ourgrid <http://ourgrid.org>`_)
-    * P2P Computing
-    * Cloud Computing (we called it Utility Computing or 
-      Business Driven IT Management at the time)
-
-These previous projects were mostly done at the `Federal University of Campina
-Grande <http://ufcg.edu.br>`_, where I did my `BSc in Computer Science
-<http://computacao.ufcg.edu.br>`_, and was a member of the `Distributed
-Systems Laboratory <http://lsd.ufcg.edu.br>`_.
-
-Around the web you can find me on `Github <http://github.com/flaviovdf>`_.
-
-Education
-=========
-
-1. PhD in Computer Science (`Federal University of Minas Gerais
-   <http://ufmg.br>`_)
-2. MSc in Computer Science (`Federal University of Minas Gerais 
-   <http://ufmg.br>`_)
-3. BSc in Computer Science (`Federal University of Campina Grande
-   <http://ufcg.edu.br>`_)
 
 Experience
-==========
+----------
 
-* Research Staff Member @ IBM Research Brazil
+* (Current) Research Staff Member @ IBM Research Brazil
     
-  * Summary: Part of the social media analytics group. More
-    information to come!
+  * Summary: Part of the social media analytics group. I do research related to
+    data science, social media and data mining. Please check my publications
+    for more information at the time.
 
-* Pos-doc Researcher/Developer (07/2015 to 11/2015)
+* Pos-doc Researcher/Developer 
     
     * Summary: Supervised students in research projects related to data mining.
       Also performed post-graduate research on: data mining, tensor
@@ -74,7 +45,7 @@ Experience
     
     * Supervisor: `Nazareno Andrade <http://lsd.ufcg.edu.br/~nazareno>`_
 
-* PhD Student (06/2011 to 06/2015)
+* PhD Student at the Federal University of Minas Gerais
     
     * Summary: Researching social media popularity, time series, and user
       behavior online.
@@ -83,20 +54,20 @@ Experience
     * Supervisor: `Jussara Almeida <http://dcc.ufmg.br/~jussara>`_
 
 * Visiting Scholar - `Databases Group <http://db.cs.cmu.edu>`_ at Carnegie 
-  Mellon University (10/2013 to 10/2014)
+  Mellon University 
     
     * Summary: One year as a visiting scholar working on time series and
       social media data mining.
     * Supervisor: `Christos Faloutsos <http://cs.cmu.edu/~christos>`_
 
 * Visiting Researcher at the `Networked Systems Laboratory 
-  <http://netsyslab.ece.ubc.ca>`_ (03/2011 to 08/2011)
+  <http://netsyslab.ece.ubc.ca>`_ 
     
     * Summary: Six months as a visiting researcher working on information
       retrieval, incentive models and a lot of tagging data.
     * Supervisor: `Matei Ripeanu <http://ece.ubc.ca/~matei>`_
 
-* MSc Student at the Federal University of Minas Gerais (03/2008 to 03/2010)
+* MSc Student at the `Federal University of Minas Gerais <http://ufmg.br>__` 
 
     * Summary: Research done on social network and Web 2.0 sites, with the main
       objective of extracting evidence of  textual data (i.e. tags) data when
@@ -104,8 +75,8 @@ Experience
       Research done for Brazil´s National Institute for Web Research.
     * Supervisor: `Jussara Almeida <http://dcc.ufmg.br/~jussara>`_
 
-* Developer for the OurGrid Project (http://www.ourgrid.org)
-  (03/2005 to 02/2008)
+* Developer for the OurGrid Project (http://www.ourgrid.org) at the Distributed
+  Systems Lab (http://lsd.ufcg.edu.br).
 
     * Summary: During my undergrad studies I was a developer at the 
       Ourgrid project. I worked on developing Ourgrid and also on researching
@@ -113,11 +84,19 @@ Experience
       Business Driven Grid Management.
     * Supervisor: `Francisco Brasileiro <http://dsc.ufcg.edu.br/~fubica>`_
 
-Publications
-============
+* BSc Student at the `Federal University of Campina Grande
+  <http://ufcg.edu.br>`__
+    
+    * Summary: This is a 4 year degree in Computer Science. During my time at
+      UFCG I was scientific initiation student which translates to: teaching
+      assistant, as well as developer and researcher at the OurGrid project
+      (see above). Because of these activities, I received my degree in 4.5
+      years.
 
-Journal papers and submissions (English)
-----------------------------------------
+Publications
+------------
+
+**Journal papers and submissions (English)**
 
 * *Mining User Attention Flows in Online Music Listening* |br|
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
@@ -161,8 +140,7 @@ Journal papers and submissions (English)
   [`PDF <papers/almeida2010-ieee.pdf>`__]
   |br| |br|
 
-Conference and workshop papers (English)
-----------------------------------------
+**Conference and workshop papers (English)**
 
 * *TribeFlow: Mining & Predicting User Trajectories* |br|
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
@@ -297,8 +275,7 @@ Conference and workshop papers (English)
   [`PDF <papers/figueiredo2006-wtf.pdf>`__]
   |br| |br|
 
-Tech Reports and Work in Progress
----------------------------------
+**Tech Reports and Work in Progress**
 
 * *Assessing the Value of Peer-Produced Information for Exploratory Search*
   |br|
@@ -308,8 +285,7 @@ Tech Reports and Work in Progress
   [`Code <http://github.com/flaviovdf/tag_assess>`__]
   |br| |br|
 
-Conference papers (Portuguese)
-------------------------------
+**Conference papers (Portuguese)**
 
 * *Uma Caracterização dos Padrões de Navegação de Usuários em uma Aplicação
   Social de Streaming de Vídeo* |br|
@@ -348,8 +324,7 @@ Conference papers (Portuguese)
   [`DOC <papers/girafas_sbsi2006.doc>`__]
   |br| |br|
 
-Dissertations
--------------
+**Dissertations**
 
 * *(PhD) Understanding, Modeling and Predicting the Popularity of Online 
   Content on Social Media Applications* |br|
@@ -366,8 +341,8 @@ Dissertations
   [`PDF <papers/mestrado.pdf>`__]
   |br| |br|
 
-Open Source Code
-================
+Open Source
+-----------
 
 Code used in publication can be found above, in the `Publications`_ section.
 You can find most of my other code on `Github <http://github.com/flaviovdf>`_.
