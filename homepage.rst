@@ -98,13 +98,6 @@ Publications
 
 **Journal papers and submissions (English)**
 
-* *Mining User Attention Flows in Online Music Listening* |br|
-  Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
-  Nazareno Andrade, Christos Faloutsos |br|
-  Under Review. |br|
-  [Pre-Print Soon]
-  |br| |br|
-
 * *TrendLearner: Early Prediction of Popularity Trends of User Generated
   Content* |br|
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, 
@@ -141,6 +134,19 @@ Publications
   |br| |br|
 
 **Conference and workshop papers (English)**
+
+* *Mining Online Music Listening Trajectories* |br|
+  Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
+  Nazareno Andrade, Christos Faloutsos |br|
+  International Society for Music Information Retrieval - ISMIR 2016. |br|
+  [Pre-Print Soon]
+  |br| |br|
+
+* *Exploring the Latent Structure of Collaborations in Music Production* |br|
+  Nazareno Andrade, Flavio Figueiredo |br|
+  International Society for Music Information Retrieval - ISMIR 2016. |br|
+  [Pre-Print Soon]
+  |br| |br|
 
 * *TribeFlow: Mining & Predicting User Trajectories* |br|
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
