@@ -139,13 +139,14 @@ Publications
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
   Nazareno Andrade, Christos Faloutsos |br|
   International Society for Music Information Retrieval - ISMIR 2016. |br|
-  [Pre-Print Soon]
+  [`PDF <papers/figueiredo2016-ismir-musictraj.pdf>`__]
   |br| |br|
 
-* *Exploring the Latent Structure of Collaborations in Music Production* |br|
+* *Exploring the Latent Structure of Collaborations in Music Recordings: A Case
+  Study in Jazz* |br|
   Nazareno Andrade, Flavio Figueiredo |br|
   International Society for Music Information Retrieval - ISMIR 2016. |br|
-  [Pre-Print Soon]
+  [`PDF <papers/andrade2016-jazz.pdf>`__]
   |br| |br|
 
 * *TribeFlow: Mining & Predicting User Trajectories* |br|
