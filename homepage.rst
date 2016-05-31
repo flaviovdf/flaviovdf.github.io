@@ -171,7 +171,7 @@ Publications
   |br| Heloisa Candello, Ana Appel and Renan Souza |br|
   International Conference on the Computational Processing of Portuguese
   Language - PROPOR 2016 |br|
-  [PDF Soon]
+  [`PDF <papers/cavalin2016-propor.pdf>`__]
   |br| |br|
 
 * *Modeling and Mining Information Popularity Online* |br|
