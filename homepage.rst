@@ -159,11 +159,20 @@ Publications
   [`Presentation <papers/figueiredo2016-www-slides.pptx>`__]
   |br| |br|
 
+* *A Summary of the TribeFlow Model for Music Discovery Applications* |br|
+  Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
+  Christos Faloutsos |br|
+  Machine Learning for Music Discovery Workshop @ ICML 2016 |br|
+  [`PDF <papers/figueiredo2016-ml4md.pdf>`__]
+  [`Presentation <papers/figueiredo2016-ml4md-pres.pptx>`__]
+  |br| |br|
+
 * *Understanding Video-Ad Consumption on YouTube: A Measurement Study on User
   Behavior, Popularity, and Content Properties.* |br|
   Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida |br|
   ACM Web Science Conference - WebSci 2016 |br|
   [`PDF <papers/arantes2016-websci.pdf>`__]
+  [`Presentation <papers/arantes2016-websci-pres.pdf>`__]
   |br| |br|
 
 * *Building a Question-Answering Corpus using Social Media and News Articles* |br|
