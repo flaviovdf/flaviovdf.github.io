@@ -140,7 +140,7 @@ Publications
   Nazareno Andrade, Christos Faloutsos |br|
   International Society for Music Information Retrieval - ISMIR 2016. |br|
   [`PDF <papers/figueiredo2016-ismir-musictraj.pdf>`__]
-  [`Poster <papers/andrade2016-ismir-musictraj-poster.pdf>`__]
+  [`Poster <papers/figueiredo2016-ismir-musictraj-poster.pdf>`__]
   [`Code/Data <http://flaviovdf.github.io/ismir-posters>`__]
   |br| |br|
 
