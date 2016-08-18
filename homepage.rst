@@ -1,5 +1,7 @@
 .. rst2html --stylesheet=style.css homepage.rst > index.html
 
+.. role:: red
+
 .. footer:: 
     Developed in reST, processed in rst2html.py.
     Make's use of the CSS sheet by cskeeters:
@@ -139,6 +141,9 @@ Publications
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
   Nazareno Andrade, Christos Faloutsos |br|
   International Society for Music Information Retrieval - ISMIR 2016. |br|
+  :red:`(There is a mistake in Figure 3 on the conference proceedings. The axis
+  are normalized and the text considers un-normalized values.
+  Please use this version).` |br|
   [`PDF <papers/figueiredo2016-ismir-musictraj.pdf>`__]
   [`Poster <papers/figueiredo2016-ismir-musictraj-poster.pdf>`__]
   [`Code/Data <http://github.com/flaviovdf/ismir-posters>`__]

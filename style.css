@@ -5,6 +5,10 @@
 Stylesheet for use with Docutils/rst2html.
 */
 
+.red {
+            color: red;
+}
+
 html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
