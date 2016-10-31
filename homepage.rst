@@ -1,6 +1,7 @@
 .. rst2html --stylesheet=style.css homepage.rst > index.html
 
-.. role:: red
+.. role:: 
+    red
 
 .. footer:: 
     Developed in reST, processed in rst2html.py.
@@ -141,9 +142,9 @@ Publications
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
   Nazareno Andrade, Christos Faloutsos |br|
   International Society for Music Information Retrieval - ISMIR 2016. |br|
-  :red:`(There is a mistake in Figure 3 on the conference proceedings. The axis
+  :red:`There is a mistake in Figure 3 on the conference proceedings. The axis
   are normalized and the text considers un-normalized values.
-  Please use this version).` |br|
+  Please use this version.` |br|
   [`PDF <papers/figueiredo2016-ismir-musictraj.pdf>`__]
   [`Poster <papers/figueiredo2016-ismir-musictraj-poster.pdf>`__]
   [`Code/Data <http://github.com/flaviovdf/ismir-posters>`__]
@@ -180,6 +181,7 @@ Publications
   Behavior, Popularity, and Content Properties.* |br|
   Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida |br|
   ACM Web Science Conference - WebSci 2016 |br|
+  :red:`Best Student Paper Award` |br|
   [`PDF <papers/arantes2016-websci.pdf>`__]
   [`Presentation <papers/arantes2016-websci-pres.pdf>`__]
   |br| |br|
@@ -192,6 +194,12 @@ Publications
   [`PDF <papers/cavalin2016-propor.pdf>`__]
   |br| |br|
 
+* *Organizing Images from Social Media to  Monitor Real World Events* |br|
+  Paulo Cavalin, Flavio Figueiredo, Maira Gatti de Bayser, Claudio Pinhanz |br|
+  Workshop of Industry Applications @ SIBGRAPI 2016 |br|
+  :red:`Best Workshop Paper Award`
+  |br| |br|
+
 * *Modeling and Mining Information Popularity Online* |br|
   Flavio Figueiredo |br|
   Netsci-X (Presentation only) - 2015 |br|
@@ -202,6 +210,7 @@ Publications
   Prediction Methods using Time Series Trends* |br|
   Flavio Figueiredo, Marcos André and Jussara M. Almeida |br|
   ECML/PKDD Predictive Analytics Challenge - 2014 |br|
+  :red:`First Place in 2 out of 3 tasks of the challenge` |br|
   [`PDF <papers/figueiredo2014-challenge.pdf>`__]
   |br| |br|
 
@@ -210,6 +219,7 @@ Publications
   Glauber D. Gonçalves, Flavio Figueiredo, Marcos André and 
   Jussara M. Almeida |br|
   ACM Conference on Digital Libraries - DL 2014 |br|
+  :red:`Honarable Mention for Best Student Paper` |br|
   [`PDF <papers/goncalves2014-dl.pdf>`__]
   |br| |br|
 
