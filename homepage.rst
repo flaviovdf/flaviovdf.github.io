@@ -24,7 +24,7 @@ I hold a PhD and a MsC in Computer Science from the
 `Federal University of Minas Gerais <http://ufmg.br>`__,
 as well as a BsC also in Computer Science from the
 `Federal University of Campina Grande <http://ufcg.edu.br>`__.
-Currently, I work as a researcher at IBM Research Rio de Janeiro.
+Currently, I work as a Professor @ UFMG.
 My research interests are:
 
     * Data science
@@ -36,15 +36,15 @@ Experience
 
 * Professor @ UFMG
 
-  * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br
-    More information to come!
+    * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br
+      More information to come!
 
 * Research Staff Member @ IBM Research Brazil
     
-  * Summary: Part of the social media analytics group. I do research related to
-    data science, social media and data mining. More specifically, researched
-    on machine learning and information retrieval techniques for chatbot
-    technology. Please check my publications for more information.
+    * Summary: Part of the social media analytics group. I do research related to
+      data science, social media and data mining. More specifically, researched
+      on machine learning and information retrieval techniques for chatbot
+      technology. Please check my publications for more information.
 
 * Pos-doc Researcher/Developer 
     
