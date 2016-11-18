@@ -34,11 +34,17 @@ My research interests are:
 Experience
 ----------
 
-* (Current) Research Staff Member @ IBM Research Brazil
+* Professor @ UFMG
+
+  * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br
+    More information to come!
+
+* Research Staff Member @ IBM Research Brazil
     
   * Summary: Part of the social media analytics group. I do research related to
-    data science, social media and data mining. Please check my publications
-    for more information at the time.
+    data science, social media and data mining. More specifically, researched
+    on machine learning and information retrieval techniques for chatbot
+    technology. Please check my publications for more information.
 
 * Pos-doc Researcher/Developer 
     
