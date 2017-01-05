@@ -12,9 +12,9 @@
    
     <br />
 
-+---------------+-----------------+----------------+-----------------+
-| `Experience`_ | `Publications`_ | `Open Source`_ | `CV <cv.pdf>`__ |
-+---------------+-----------------+----------------+-----------------+
++---------------+-----------------+----------------+-----------------+------------------------------------------+
+| `Experience`_ | `Publications`_ | `Open Source`_ | `CV <cv.pdf>`__ |  `Blog <https://medium.com/@flaviovdf>`_ |
++---------------+-----------------+----------------+-----------------+------------------------------------------+
 
 Flavio Figueiredo
 =================
@@ -144,6 +144,10 @@ Publications
 
 **Conference and workshop papers (English)**
 
+* *Typefaces and the Perception of Humanness in Natural Language Chatbots* |br|
+  Heloisa Candello, Claudio Pinhanez, Flavio Figueiredo |br|
+  ACM Conference on Human Factors in Computing - CHI 2016 |br| |br|
+
 * *Mining Online Music Listening Trajectories* |br|
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
   Nazareno Andrade, Christos Faloutsos |br|
@@ -201,7 +205,7 @@ Publications
   |br| |br|
 
 * *Organizing Images from Social Media to  Monitor Real World Events* |br|
-  Paulo Cavalin, Flavio Figueiredo, Maira Gatti de Bayser, Claudio Pinhanz |br|
+  Paulo Cavalin, Flavio Figueiredo, Maira Gatti de Bayser, Claudio Pinhanez |br|
   Workshop of Industry Applications @ SIBGRAPI 2016 |br|
   :red:`Best Workshop Paper Award`
   |br| |br|
