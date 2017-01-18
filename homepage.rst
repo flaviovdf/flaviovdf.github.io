@@ -209,7 +209,8 @@ Publications
 * *Organizing Images from Social Media to  Monitor Real World Events* |br|
   Paulo Cavalin, Flavio Figueiredo, Maira Gatti de Bayser, Claudio Pinhanez |br|
   Workshop of Industry Applications @ SIBGRAPI 2016 |br|
-  :red:`Best Workshop Paper Award`
+  :red:`Best Workshop Paper Award` |br|
+  [`PDF <papers/cavalin2016-industry.pdf>`__]
   |br| |br|
 
 * *Modeling and Mining Information Popularity Online* |br|
