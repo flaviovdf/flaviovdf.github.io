@@ -146,7 +146,9 @@ Publications
 
 * *Typefaces and the Perception of Humanness in Natural Language Chatbots* |br|
   Heloisa Candello, Claudio Pinhanez, Flavio Figueiredo |br|
-  ACM Conference on Human Factors in Computing - CHI 2016 |br| |br|
+  ACM Conference on Human Factors in Computing - CHI 2016 |br| 
+  [`PDF <papers/candello2017-chi.pdf>`__]
+  |br| |br|
 
 * *Mining Online Music Listening Trajectories* |br|
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, 
