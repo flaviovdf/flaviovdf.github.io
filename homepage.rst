@@ -83,7 +83,7 @@ Experience
     * Summary: Research done on social network and Web 2.0 sites, with the main
       objective of extracting evidence of  textual data (i.e. tags) data when
       applied to information retrieval (IR) tasks. 
-      Research done for Brazil´s National Institute for Web Research.
+      Research done for Brazil's National Institute for Web Research.
     * Supervisor: `Jussara Almeida <http://dcc.ufmg.br/~jussara>`_
 
 * Developer for the OurGrid Project (http://www.ourgrid.org) at the Distributed
@@ -148,7 +148,7 @@ Publications
 
 * *Typefaces and the Perception of Humanness in Natural Language Chatbots* |br|
   Heloisa Candello, Claudio Pinhanez, Flavio Figueiredo |br|
-  ACM Conference on Human Factors in Computing - CHI 2016 |br| 
+  ACM Conference on Human Factors in Computing - CHI 2017 |br| 
   [`PDF <papers/candello2017-chi.pdf>`__]
   |br| |br|
 
