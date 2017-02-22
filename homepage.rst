@@ -19,9 +19,11 @@
 Flavio Figueiredo
 =================
 
+.. image:: picture.png
+
 Hello and welcome to my home page. 
 I hold a PhD and a MsC in Computer Science from the
-`Federal University of Minas Gerais <http://ufmg.br>`__,
+`Federal University of Minas Gerais (UFMG) <http://ufmg.br>`__,
 as well as a BsC also in Computer Science from the
 `Federal University of Campina Grande <http://ufcg.edu.br>`__.
 Currently, I work as a Professor @ UFMG.
@@ -34,7 +36,7 @@ My research interests are:
 Experience
 ----------
 
-* Professor @ UFMG
+* Professor @ Federal University of Minas Gerais (UFMG)
 
     * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br
       More information to come!
