@@ -19,8 +19,6 @@
 Flavio Figueiredo
 =================
 
-.. image:: picture.png
-
 Hello and welcome to my home page. 
 I hold a PhD and a MsC in Computer Science from the
 `Federal University of Minas Gerais (UFMG) <http://ufmg.br>`__,
