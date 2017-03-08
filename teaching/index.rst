@@ -24,4 +24,4 @@ Teaching Material
 ------
 
 * `Algoritmos e Estrutura de Dados 2 <https://github.com/flaviovdf/teaching/tree/master/aeds2/2017-1>`__
-* `Sistemas Operacionais <https://github.com/flaviovdf/teaching/tree/master/sistemasoperacionais/2017-1>`__
+* `Sistemas Operacionais <https://github.com/flaviovdf/SO-2017-1>`__
