@@ -1,6 +1,7 @@
 # Flavio Figueiredo
 
-Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br>), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br>). Currently, I work as a Professor @ UFMG. My research interests are:
+Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). Currently, I work as a Professor @ UFMG. My research interests are:
+
     * Data science
     * Online User Behavior
     * Machine Learning
@@ -8,37 +9,52 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
 ## Experience
 
 * Professor @ Federal University of Minas Gerais (UFMG)
+
     * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br
       More information to come!
 
 * Research Staff Member @ IBM Research Brazil
+
     * Summary: Part of the social media analytics group. I do research related to data science, social media and data mining. More specifically, researched on machine learning and information retrieval techniques for chatbot technology. Please check my publications for more information.
 
 * Pos-doc Researcher/Developer
+
     * Summary: Supervised students in research projects related to data mining. Also performed post-graduate research on: data mining, tensor decomposition and graphical models.
+    
     * Supervisor: [Nazareno Andrade](http://lsd.ufcg.edu.br/~nazareno>)
 
 * PhD Student at the Federal University of Minas Gerais
+
     * Summary: Researching social media popularity, time series, and user behavior online. Research done as part of Brazil's National Institute for Web Research(http://www.inweb.org.br).
+    
     * Supervisor: [Jussara Almeida](http://dcc.ufmg.br/~jussara)
 
 * Visiting Scholar - [Databases Group](http://db.cs.cmu.edu) at Carnegie Mellon University
+
     * Summary: One year as a visiting scholar working on time series and social media data mining.
+    
     * Supervisor: [Christos Faloutsos](http://cs.cmu.edu/~christos)
 
 * Visiting Researcher at the [Networked Systems Laboratory](http://netsyslab.ece.ubc.ca)
+
     * Summary: Six months as a visiting researcher working on information retrieval, incentive models and a lot of tagging data.
+    
     * Supervisor: [Matei Ripeanu](http://ece.ubc.ca/~matei)
 
-* MSc Student at the [Federal University of Minas Gerais (UFMG)](http://ufmg.br>)
+* MSc Student at the [Federal University of Minas Gerais (UFMG)](http://ufmg.br)
+
     * Summary: Research done on social network and Web 2.0 sites, with the main  objective of extracting evidence of  textual data (i.e. tags) data when applied to information retrieval (IR) tasks. Research done for Brazil's National Institute for Web Research.
+    
     * Supervisor: [Jussara Almeida](http://dcc.ufmg.br/~jussara)
 
 * Developer for the OurGrid Project (http://www.ourgrid.org) at the Distributed Systems Lab (http://lsd.ufcg.edu.br).
+
     * Summary: During my undergrad studies I was a developer at the Ourgrid project. I worked on developing Ourgrid and also on researching Grid Security, Failure Detection, Business Driven IT Management, and Business Driven Grid Management.
+    
     * Supervisor: [Francisco Brasileiro](http://dsc.ufcg.edu.br/~fubica)
 
 * BSc Student at the [Federal University of Campina Grande](http://ufcg.edu.br)
+
     * Summary: This is a 4 year degree in Computer Science. During my time at UFCG I was scientific initiation student which translates to: teaching assistant, as well as developer and researcher at the OurGrid project.
 
 ## Publications
@@ -82,7 +98,7 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
 * *Mining Online Music Listening Trajectories* 
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, Nazareno Andrade, Christos Faloutsos 
   International Society for Music Information Retrieval - ISMIR 2016. 
-  `There is a mistake in Figure 3 on the conference proceedings. The axis are normalized and the text considers un-normalized values Please use this version.` 
+  `There is a mistake in Figure 3 on the conference proceedings. The axis are normalized and the text considers un-normalized values Please use this version.`
   [PDF](papers/figueiredo2016-ismir-musictraj.pdf) &nbsp; [Poster](papers/figueiredo2016-ismir-musictraj-poster.pdf) &nbsp; [Code/Data](http://github.com/flaviovdf/ismir-posters)
 
 
