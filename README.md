@@ -21,7 +21,7 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
 
     * Summary: Supervised students in research projects related to data mining. Also performed post-graduate research on: data mining, tensor decomposition and graphical models.
     
-    * Supervisor: [Nazareno Andrade](http://lsd.ufcg.edu.br/~nazareno>)
+    * Supervisor: [Nazareno Andrade](http://lsd.ufcg.edu.br/~nazareno)
 
 * PhD Student at the Federal University of Minas Gerais
 
