@@ -61,10 +61,12 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
 
 **Journal papers and submissions (English)**
 
-* *TrendLearner: Early Prediction of Popularity Trends of User Generated
-  Content*
+* *TrendLearner: Early Prediction of Popularity Trends of User Generated Content*
+
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, Fabrício Benevenuto
+  
   Elsevier Information Sciences
+  
   [PDF](papers/figueiredo2016-trendlearner.pdf) &nbsp; [Preprint](http://arxiv.org/abs/1402.2351) &nbsp; [Online](http://dx.doi.org/10.1016/j.ins.2016.02.025)
 
 * *On the Dynamics of Social Media Popularity: A YouTube Case Study*
