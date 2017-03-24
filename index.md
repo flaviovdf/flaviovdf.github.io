@@ -20,7 +20,8 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
     * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br. More information to come!
 
 * Research Staff Member @ IBM Research Brazil
-    * Summary: Part of the social media analytics group. I do research related to data science, social media and data mining. More specifically, researched on machine learning and information retrieval techniques for chatbot technology. Please check my publications for more information.
+    * Summary: Part of the social media and conversational analytics group. At IBM I did research related to data science, social media, and data mining. More specifically, I researched machine learning and information retrieval techniques for chatbot technology. Please check my publications for more information.
+    * Manager: [Claudio Pinhanez](http://researcher.ibm.com/researcher/view.php?person=br-csantosp)
 
 * Pos-doc Researcher/Developer
     * Summary: Supervised students in research projects related to data mining. Also performed post-graduate research on: data mining, tensor decomposition and graphical models.
