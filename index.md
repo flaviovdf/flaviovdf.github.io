@@ -81,6 +81,12 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
 
 **Conference and workshop papers (English)**
 
+* *Multiple Images of the City: Unveiling Group-Specific Urban Perceptions through a Crowdsourcing Game* <br/>
+  David Candeia, Flavio Figueiredo, Nazareno Andrade, Daniele Quercia <br/>
+  ACM Conference on Hypertext - HT 2017 <br/>
+  [PDF](papers/candeia2017-hc.pdf)
+  
+
 * *Typefaces and the Perception of Humanness in Natural Language Chatbots* <br/>
   Heloisa Candello, Claudio Pinhanez, Flavio Figueiredo <br/>
   ACM Conference on Human Factors in Computing - CHI 2017 <br/>
