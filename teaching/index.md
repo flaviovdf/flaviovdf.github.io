@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ## 2017-2
-  * [Algoritmos e Estrutura de Dados 1](checkback)
+  * [Algoritmos e Estrutura de Dados 1](https://flaviovdf.github.io/AEDS1-2017-2)
   * [Sistemas Operacionais](https://flaviovdf.github.io/SO-2017-2)
 
 ## 2017-1
