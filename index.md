@@ -54,6 +54,12 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
 
 **Journal papers and submissions (English)**
 
+* *Towards Understanding the Consumption of Video-Ads on YouTube* <br/>
+  Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida <br/>
+  The Journal of Web Science <br />
+  Invited Submission
+  [PDF](papers/arantes2017-jwsci.pdf) &nbsp; [Data](https://github.com/marianavsarantes/video-ads-dataset)
+
 * *TrendLearner: Early Prediction of Popularity Trends of User Generated Content* <br/>
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, Fabrício Benevenuto <br/>
   Elsevier Information Sciences <br/>
