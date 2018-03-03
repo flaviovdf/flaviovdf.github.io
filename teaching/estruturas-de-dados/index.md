@@ -10,7 +10,12 @@ layout: page
 
 ## Informes
 
+* **INF01**: Aulas iniciam no dia 06/03.
+
 ## Calendário
+
+Planejamento inicial abaixo. Fique atento para mudanças. Ainda preciso
+encontrar um local para o Union-Set.
 
 | Aula | Data     | Revisão AEDS-1                           | Informações  |
 |------|----------|------------------------------------------|--------------|
@@ -40,7 +45,7 @@ layout: page
 
 | Aula | Data     | Prova-3: Ordenação                       | Informações  |
 |------|----------|------------------------------------------|--------------|
-| 17   | 03/05/17 | Ordenação (Insertion, Select)            |              |
+| 17   | 03/05/17 | Ordenação (Insertion, Select, Bubble)    |              |
 | 18   | 08/05/18 | Ordenação (Merge)                        |              |
 | 19   | 10/05/18 | Ordenação (Heaps, Heap Sort)             |              |
 | 20   | 15/05/18 | Ordenação (QuickSort)                    |              |
@@ -54,9 +59,9 @@ layout: page
 | 24   | 05/06/18 | Árvores Balanceadas (AVL)                |              |
 | 25   | 07/06/18 | Árvores Balanceadas (R&B)                |              |
 |      | 12/06/18 | *Feriado*                                |              |
-| 26   | 19/06/18 | Árvores N-ary (BTree, 2-3Tree, Trie)     |              |
+| 26   | 19/06/18 | Árvores N-ary (BTree)                    |              |
 | 27   | 21/06/18 | Hashing                                  |              |
-| 28   | 26/06/18 | Hashing e Revisão                        |              |
+| 28   | 26/06/18 | Hashing                                  |              |
 | 29   | 28/06/18 | *Prova 4*                                |              |
 | 30   | 03/07/18 | *Reposição*                              |              |
 
