@@ -8,6 +8,14 @@ layout: page
 
 # DCC004: Estruturas de Dados (~~AEDS2~~)
 
+Professor: Flavio Figueiredo
+
+Aulas: Terças e Quintas 16:40-18:20
+
+Sala Teórica: 312 (CAD1)
+
+Sala Prática: ?? (Icex)
+
 ## Informes
 
 * **INF01**: Aulas iniciam no dia 06/03.
