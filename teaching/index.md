@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ## 2018-1
-  * [Algoritmos e Estrutura de Dados 2](https://flaviovdf.github.io/estrutura-de-dados)
+  * [Algoritmos e Estrutura de Dados 2](https://flaviovdf.github.io/estruturas-de-dados)
   * [Sistemas Operacionais](https://flaviovdf.github.io/sistemas-operacionais)
 
 ## 2017-2
