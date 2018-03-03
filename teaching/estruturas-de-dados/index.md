@@ -21,5 +21,5 @@ layout: page
 [Calendário]: #calendário
 [Informes]: #informes
 [TPs]: #tps
-[TPs]: #listas
+[Listas]: #listas
 [Exemplos]: https://github.com/flaviovdf/estruturas-de-dados
