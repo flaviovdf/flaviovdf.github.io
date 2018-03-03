@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Teaching Material
 
-  * [Programação e desenvolvimento de software (ex AEDS1)](https://flaviovdf.github.io/teaching/programacao)
+  * [Programação e desenvolvimento de software (ex AEDS1)](https://flaviovdf.github.io/teaching/programacao-1)
   * [Estruturas de Dados (ex AEDS2)](https://flaviovdf.github.io/teaching/estruturas-de-dados)
   * [Sistemas Operacionais](https://flaviovdf.github.io/teaching/sistemas-operacionais)
 
