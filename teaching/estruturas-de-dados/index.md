@@ -11,6 +11,7 @@ layout: page
 ## Informes
 
 * **INF01**: Aulas iniciam no dia 06/03.
+* **INF02**: Como revisão de AEDS1 usaremos o VPL do Moodle.
 
 ## Calendário
 
@@ -60,12 +61,9 @@ encontrar um local para o Union-Set.
 
 ## TPs
 
-## Listas
-
-
 [Slides]: https://drive.google.com/open?id=0B0ryAvcYobs0RWtXV2hWeUdSUjQ
 [Calendário]: #calendário
 [Informes]: #informes
 [TPs]: #tps
-[Listas]: #listas
+[Listas]: https://github.com/flaviovdf/estruturas-de-dados/listas
 [Exemplos]: https://github.com/flaviovdf/estruturas-de-dados
