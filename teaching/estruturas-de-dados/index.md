@@ -1,11 +1,17 @@
 ---
 layout: page
 ---
-|----------|--------------------|------------|------------|
-| [Slides] | [Calendário](#cal) | [Exemplos] | [TPs](#tps)
+|----------|--------------|------------|-------|
+| [Slides] | [Calendário] | [Exemplos] | [TPs] |
 
 - - -
 
+# ~~DCC004~~: Estruturas de Dados (~~AEDS2~~)
 
-[Slides]: ./slides/00-Apresentacao.pdf
-[Exemplos]: ./slides/02-Introducao.pdf
+## Informes
+
+## TPs
+
+
+[Slides]: https://drive.google.com/open?id=0B0ryAvcYobs0RWtXV2hWeUdSUjQ
+[Exemplos]: https://github.com/flaviovdf/estruturas-de-dados
