@@ -70,7 +70,6 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
   ACM Transactions on Internet Technology (TOIT). <br/>
   [PDF](papers/figueiredo2014-toit.pdf) &nbsp; [Preprint](http://arxiv.org/abs/1402.1777) &nbsp; [Data](http://vod.dcc.ufmg.br/traces/youtime)
 
-
 * *Assessing the Quality of Textual Features in Social Media* <br/>
   Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos Gonçalves, David Fernandes, Edleno Moura. <br/>
   Information Processing Management.
@@ -83,9 +82,18 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
   IEEE Internet Computing, vol. 14, no. 6, pp. 47-55, Nov./Dec. 2010,
   http://doi:10.1109/MIC.2010.102 <br/>
   [PDF](papers/almeida2010-ieee.pdf)
-
-
+  
 **Conference and workshop papers (English)**
+
+* *An Investigation of User ActionsExposed to YouTubeand Experiences when Video Ads* <br/>
+  Mariana Arantes, Flavio Figueiredo, Raquel O. Prates, Jussara M. Almeida <br/>
+  Brazilian Symposium on Multimedia and the Web - 2018 <br/>
+  [PDF](papers/arantes2018-webmedia.pdf)
+
+* *Mining and modeling web trajectories from passive traces* <br/>
+  Luca Vassio, Marco Mellia, Flavio Figueiredo, Ana Paula Couto da Silva, Jussara M Almeida <br/>
+  IEEE International Conference on Big Data (2017) <br/>
+  [PDF](papers/vassio2017-big.pdf)
 
 * *Multiple Images of the City: Unveiling Group-Specific Urban Perceptions through a Crowdsourcing Game* <br/>
   David Candeia, Flavio Figueiredo, Nazareno Andrade, Daniele Quercia <br/>
