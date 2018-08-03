@@ -6,9 +6,14 @@ permalink: /teaching/
 
 ## Teaching Material
 
-  * [Programação e desenvolvimento de software (ex AEDS1)](https://github.com/flaviovdf/programacao)
-  * [Estruturas de Dados (ex AEDS2)](https://github.com/flaviovdf/estruturas-de-dados)
+  * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
+  * [Programação e desenvolvimento de software 2](https://github.com/flaviovdf/programacao-2)
+  * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
+
+## 2018-2
+  * Programação e desenvolvimento de software 2
+  * Programação e desenvolvimento de software 2
 
 ## 2018-1
   * Estruturas de Dados (ex AEDS2)
