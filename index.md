@@ -85,7 +85,7 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
   
 **Conference and workshop papers (English)**
 
-* *An Investigation of User ActionsExposed to YouTubeand Experiences when Video Ads* <br/>
+* *An Investigation of User Actions and Experiences when Exposed to YouTube Video Ads* <br/>
   Mariana Arantes, Flavio Figueiredo, Raquel O. Prates, Jussara M. Almeida <br/>
   Brazilian Symposium on Multimedia and the Web - 2018 <br/>
   [PDF](papers/arantes2018-webmedia.pdf)
