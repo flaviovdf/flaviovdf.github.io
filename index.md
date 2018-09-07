@@ -8,16 +8,16 @@ layout: page
 
 ## **Flavio** **V**inicius **D**iniz de **Figueiredo**
 
-Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). Currently, I work as a Professor @ UFMG. My research interests are:
+Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). Currently, I work as a Professor @ UFMG. Mostly, I perform research in data science and machine learning focused on understanding human and social aspects online.
 
-- Data science
-- Online User Behavior
+- Data Science
+- Online User and Social Behavior
 - Machine Learning
 
 ## Experience
 
 * Professor @ Federal University of Minas Gerais (UFMG)
-    * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br. More information to come!
+    * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br. 
 
 * Research Staff Member @ IBM Research Brazil
     * Summary: Part of the social media and conversational analytics group. At IBM I did research related to data science, social media, and data mining. More specifically, I researched machine learning and information retrieval techniques for chatbot technology. Please check my publications for more information.
@@ -85,6 +85,11 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
   
 **Conference and workshop papers (English)**
 
+* *Fast Estimation of Causal Interactions using Wold Processes* <br/>
+  Flavio Figueiredo, Guilherme Borges, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
+  Neural Information Processing Systems (NIPS) - 2018 <br/>
+  [Preprint](https://arxiv.org/abs/1807.04595) &nbsp; [PDF](papers/figueiredo2018-nips.pdf)
+  
 * *An Investigation of User Actions and Experiences when Exposed to YouTube Video Ads* <br/>
   Mariana Arantes, Flavio Figueiredo, Raquel O. Prates, Jussara M. Almeida <br/>
   Brazilian Symposium on Multimedia and the Web - 2018 <br/>
