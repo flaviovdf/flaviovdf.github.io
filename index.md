@@ -17,7 +17,7 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
 ## Experience
 
 * Professor @ Federal University of Minas Gerais (UFMG)
-    * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br. 
+    * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br.
 
 * Research Staff Member @ IBM Research Brazil
     * Summary: Part of the social media and conversational analytics group. At IBM I did research related to data science, social media, and data mining. More specifically, I researched machine learning and information retrieval techniques for chatbot technology. Please check my publications for more information.
@@ -82,14 +82,14 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
   IEEE Internet Computing, vol. 14, no. 6, pp. 47-55, Nov./Dec. 2010,
   http://doi:10.1109/MIC.2010.102 <br/>
   [PDF](papers/almeida2010-ieee.pdf)
-  
+
 **Conference and workshop papers (English)**
 
 * *Fast Estimation of Causal Interactions using Wold Processes* <br/>
   Flavio Figueiredo, Guilherme Borges, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
   Neural Information Processing Systems (NIPS) - 2018 <br/>
-  [Preprint](https://arxiv.org/abs/1807.04595) &nbsp; [PDF](papers/figueiredo2018-nips.pdf)
-  
+  [PDF](papers/figueiredo2018-nips.pdf) &nbsp; [Preprint](https://arxiv.org/abs/1807.04595)
+
 * *An Investigation of User Actions and Experiences when Exposed to YouTube Video Ads* <br/>
   Mariana Arantes, Flavio Figueiredo, Raquel O. Prates, Jussara M. Almeida <br/>
   Brazilian Symposium on Multimedia and the Web - 2018 <br/>
@@ -104,7 +104,6 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
   David Candeia, Flavio Figueiredo, Nazareno Andrade, Daniele Quercia <br/>
   ACM Conference on Hypertext - HT 2017 <br/>
   [PDF](papers/candeia2017-hc.pdf)
-  
 
 * *Typefaces and the Perception of Humanness in Natural Language Chatbots* <br/>
   Heloisa Candello, Claudio Pinhanez, Flavio Figueiredo <br/>
@@ -171,7 +170,7 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
   [PDF](papers/figueiredo2014-challenge.pdf)
 
 
-* *Characterizing Scholar Popularity: A Case Study in the Computer Science 
+* *Characterizing Scholar Popularity: A Case Study in the Computer Science
   Research Community* <br/>
   Glauber D. Gonçalves, Flavio Figueiredo, Marcos André and Jussara M. Almeida <br/>
   ACM Conference on Digital Libraries - DL 2014 <br/>
