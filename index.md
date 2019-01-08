@@ -1,57 +1,16 @@
 ---
 layout: page
 ---
-|---------------------------|-------------------------------|-----------------------------|-----------------------|-----------------------------------------|--------------|
-| [Experience](#experience) | [Publications](#publications) | [Open Source](#open-source) | [Teaching](/teaching) | [Medium](https://medium.com/@flaviovdf) | [CV](cv.pdf) |
+|-------------------------------|---------------------------|------------------------------|-----------------------|-----------------------------------------|--------------|
+| [Publications](#publications) | [Experience](#experience) |  [Open Source](#open-source) | [Teaching](/teaching) | [Medium](https://medium.com/@flaviovdf) | [CV](cv.pdf) |
 
 - - -
 
 ## **Flavio** **V**inicius **D**iniz de **Figueiredo**
 
-Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). Currently, I work as a Professor @ UFMG. Mostly, I perform research in data science and machine learning focused on understanding human and social aspects online.
-
-- Data Science
-- Online User and Social Behavior
-- Machine Learning
-
-## Experience
-
-* Professor @ Federal University of Minas Gerais (UFMG)
-    * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br.
-
-* Research Staff Member @ IBM Research Brazil
-    * Summary: Part of the social media and conversational analytics group. At IBM I did research related to data science, social media, and data mining. More specifically, I researched machine learning and information retrieval techniques for chatbot technology. Please check my publications for more information.
-    * Manager: [Claudio Pinhanez](http://researcher.ibm.com/researcher/view.php?person=br-csantosp)
-
-* Pos-doc Researcher/Developer
-    * Summary: Supervised students in research projects related to data mining. Also performed post-graduate research on: data mining, tensor decomposition and graphical models.
-    * Supervisor: [Nazareno Andrade](http://lsd.ufcg.edu.br/~nazareno)
-
-* PhD Student at the Federal University of Minas Gerais
-    * Summary: Researching social media popularity, time series, and user behavior online. Research done as part of Brazil's National Institute for Web Research(http://www.inweb.org.br).
-    * Supervisor: [Jussara Almeida](http://dcc.ufmg.br/~jussara)
-
-* Visiting Scholar - [Databases Group](http://db.cs.cmu.edu) at Carnegie Mellon University
-    * Summary: One year as a visiting scholar working on time series and social media data mining.
-    * Supervisor: [Christos Faloutsos](http://cs.cmu.edu/~christos)
-
-* Visiting Researcher at the [Networked Systems Laboratory](http://netsyslab.ece.ubc.ca)
-    * Summary: Six months as a visiting researcher working on information retrieval, incentive models and a lot of tagging data.
-    * Supervisor: [Matei Ripeanu](http://ece.ubc.ca/~matei)
-
-* MSc Student at the [Federal University of Minas Gerais (UFMG)](http://ufmg.br)
-    * Summary: Research done on social network and Web 2.0 sites, with the main  objective of extracting evidence of  textual data (i.e. tags) data when applied to information retrieval (IR) tasks. Research done for Brazil's National Institute for Web Research.
-    * Supervisor: [Jussara Almeida](http://dcc.ufmg.br/~jussara)
-
-* Developer for the [OurGrid Project](http://www.ourgrid.org) at the [Distributed Systems Lab](http://lsd.ufcg.edu.br).
-    * Summary: During my undergrad studies I was a developer at the Ourgrid project. I worked on developing Ourgrid and also on researching Grid Security, Failure Detection, Business Driven IT Management, and Business Driven Grid Management.
-    * Supervisor: [Francisco Brasileiro](http://dsc.ufcg.edu.br/~fubica)
-
-* BSc Student at the [Federal University of Campina Grande](http://ufcg.edu.br)
-    * Summary: This is a 4 year degree in Computer Science. During my time at UFCG I was scientific initiation student which translates to: teaching assistant, as well as developer and researcher at the OurGrid project.
+Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). Currently, I work as a Professor @ UFMG. Mostly, I perform research in data science and machine learning focused on aspects of human and social behavior.
 
 ## Publications (sorted by year)
-
 
 **Conference, journal and workshop papers (English)**
 
@@ -266,6 +225,41 @@ Hello and welcome to my home page. I hold a PhD and a MsC in Computer Science fr
   Flavio Figueiredo <br/>
   [PDF](papers/mestrado.pdf)
 
+## Experience
+
+* Professor @ Federal University of Minas Gerais (UFMG)
+    * Summary: Computer Science Professor and Data Science Researcher @ ufmg.br.
+
+* Research Staff Member @ IBM Research Brazil
+    * Summary: Part of the social media and conversational analytics group. At IBM I did research related to data science, social media, and data mining. More specifically, I researched machine learning and information retrieval techniques for chatbot technology. Please check my publications for more information.
+    * Manager: [Claudio Pinhanez](http://researcher.ibm.com/researcher/view.php?person=br-csantosp)
+
+* Pos-doc Researcher/Developer
+    * Summary: Supervised students in research projects related to data mining. Also performed post-graduate research on: data mining, tensor decomposition and graphical models.
+    * Supervisor: [Nazareno Andrade](http://lsd.ufcg.edu.br/~nazareno)
+
+* PhD Student at the Federal University of Minas Gerais
+    * Summary: Researching social media popularity, time series, and user behavior online. Research done as part of Brazil's National Institute for Web Research(http://www.inweb.org.br).
+    * Supervisor: [Jussara Almeida](http://dcc.ufmg.br/~jussara)
+
+* Visiting Scholar - [Databases Group](http://db.cs.cmu.edu) at Carnegie Mellon University
+    * Summary: One year as a visiting scholar working on time series and social media data mining.
+    * Supervisor: [Christos Faloutsos](http://cs.cmu.edu/~christos)
+
+* Visiting Researcher at the [Networked Systems Laboratory](http://netsyslab.ece.ubc.ca)
+    * Summary: Six months as a visiting researcher working on information retrieval, incentive models and a lot of tagging data.
+    * Supervisor: [Matei Ripeanu](http://ece.ubc.ca/~matei)
+
+* MSc Student at the [Federal University of Minas Gerais (UFMG)](http://ufmg.br)
+    * Summary: Research done on social network and Web 2.0 sites, with the main  objective of extracting evidence of  textual data (i.e. tags) data when applied to information retrieval (IR) tasks. Research done for Brazil's National Institute for Web Research.
+    * Supervisor: [Jussara Almeida](http://dcc.ufmg.br/~jussara)
+
+* Developer for the [OurGrid Project](http://www.ourgrid.org) at the [Distributed Systems Lab](http://lsd.ufcg.edu.br).
+    * Summary: During my undergrad studies I was a developer at the Ourgrid project. I worked on developing Ourgrid and also on researching Grid Security, Failure Detection, Business Driven IT Management, and Business Driven Grid Management.
+    * Supervisor: [Francisco Brasileiro](http://dsc.ufcg.edu.br/~fubica)
+
+* BSc Student at the [Federal University of Campina Grande](http://ufcg.edu.br)
+    * Summary: This is a 4 year degree in Computer Science. During my time at UFCG I was scientific initiation student which translates to: teaching assistant, as well as developer and researcher at the OurGrid project.
 
 ## Open Source
 
