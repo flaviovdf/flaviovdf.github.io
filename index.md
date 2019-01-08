@@ -14,6 +14,11 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
 
 **Conference, journal and workshop papers (English)**
 
+* *The Effect of Audiences on the User Experience with Conversational Interfaces in Physical Spaces* <br/>
+  Heloisa Candello, Claudio Pinhanez, Mauro Pichiliani, Paulo Cavalin, Flavio Figueiredo, Marisa Vasconcelos, Haylla Do Carmo <br/>
+  ACM Conference on Human Factors in Computing - CHI 2019 <br/>
+  [PDF](papers/soon)
+  
 * *Fast Estimation of Causal Interactions using Wold Processes* <br/>
   Flavio Figueiredo, Guilherme Borges, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
   Neural Information Processing Systems (NIPS) - 2018 <br/>
