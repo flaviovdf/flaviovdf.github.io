@@ -6,10 +6,14 @@ permalink: /teaching/
 
 ## Teaching Material
 
+  * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
   * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
   * [Programação e desenvolvimento de software 2](https://github.com/flaviovdf/programacao-2)
-  * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
+
+## 2019-1
+  * Introdução à Ciência de Dados
+  * Programação e desenvolvimento de software 2
 
 ## 2018-2
   * Programação e desenvolvimento de software 2
