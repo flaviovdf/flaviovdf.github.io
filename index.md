@@ -22,12 +22,12 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
 * *Fast Estimation of Causal Interactions using Wold Processes* <br/>
   Flavio Figueiredo, Guilherme Borges, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
   Neural Information Processing Systems (NIPS) - 2018 <br/>
-  [PDF](papers/figueiredo2018-nips.pdf) &nbsp; [Preprint](https://arxiv.org/abs/1807.04595)
+  [PDF](papers/figueiredo2018-nips.pdf) &nbsp; [Code](https://github.com/flaviovdf/granger-busca/) &nbsp; [Preprint](https://arxiv.org/abs/1807.04595)
   
 * *Towards Understanding the Consumption of Video-Ads on YouTube* <br/>
   Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida <br/>
   The Journal of Web Science, 2018 <br />
-  Invited Submission
+  Invited Submission <br />
   [PDF](papers/arantes2017-jwsci.pdf) &nbsp; [Data](https://github.com/marianavsarantes/video-ads-dataset)
 
 * *An Investigation of User Actions and Experiences when Exposed to YouTube Video Ads* <br/>
