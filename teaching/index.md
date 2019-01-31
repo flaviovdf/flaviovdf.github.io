@@ -12,7 +12,7 @@ permalink: /teaching/
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
 
 ## 2019-1
-  * Introdução à Ciência de Dados
+  * [Introdução à Ciência de Dados](https://docs.google.com/document/d/1c1znwwjJHvUd0kIlL-m7mKooeBCb5Gx_0DmyKeqpM0k/edit?usp=sharing)
   * Programação e desenvolvimento de software 2
 
 ## 2018-2
