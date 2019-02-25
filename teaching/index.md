@@ -7,12 +7,13 @@ permalink: /teaching/
 ## Teaching Material
 
   * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
+  * [Introdução à Ciência de Dados](https://github.com/icd-ufmg)
   * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
   * [Programação e desenvolvimento de software 2](https://github.com/flaviovdf/programacao-2)
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
 
 ## 2019-1
-  * [Introdução à Ciência de Dados](https://docs.google.com/document/d/1c1znwwjJHvUd0kIlL-m7mKooeBCb5Gx_0DmyKeqpM0k/edit?usp=sharing)
+  * [Introdução à Ciência de Dados](https://github.com/icd-ufmg/2019.1)
   * Programação e desenvolvimento de software 2
 
 ## 2018-2
