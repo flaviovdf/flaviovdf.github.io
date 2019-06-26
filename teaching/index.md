@@ -7,6 +7,7 @@ permalink: /teaching/
 ## Teaching Material
 
   * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
+  * [Human Centered Machine Learning](https://docs.google.com/document/d/1mGAOLGnWxsxzCPLBvt4w7dIu5FbHco9e3mLR8ymkvzc/edit?usp=sharing)
   * [Introdução à Ciência de Dados](https://github.com/icd-ufmg)
   * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
   * [Programação e desenvolvimento de software 2](https://github.com/flaviovdf/programacao-2)
