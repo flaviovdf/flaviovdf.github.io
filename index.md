@@ -14,10 +14,25 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
 
 **Conference, journal and workshop papers (English)**
 
+* *Quantifying Disruptive Influence in the AllMusic Guide* <br/>
+  Flavio Figueiredo and Nazareno Andrade <br/>
+  ACM Hypertext Conference - HT 2019 <br/>
+  [PDF](papers/figueiredo2019.pdf)&nbsp; [Code + Data](https://github.com/flaviovdf/allmusic-disruption)
+
+* *Analyzing and Modeling User Curiosity  in Online Content Consumption: A LastFM Case Study* <br/>
+  Alexandre M. Souza, Flavio Figueiredo and Jussara M. Almeida <br/>
+  Advances in Social Network Analysis and Mining - ASONAM 2019 <br/>
+  [PDF](papers/souza2019.pdf)
+  
+* *Towards Understanding Political Interactions on Instagram.* <br/>
+  Martino Trevisan, Luca Vassio, Idilio Drago, Marco Mellia, Fabricio Murai, Flavio Figueiredo, Ana Paula Couto da Silva, Jussara M. Almeida <br/>
+  ACM Hypertext Conference - HT 2019 <br/>
+  [PDF](papers/trevisan2019.pdf)&nbsp; [Website](https://https://smartdata.polito.it/instagram_monitoring/)
+
 * *The Effect of Audiences on the User Experience with Conversational Interfaces in Physical Spaces* <br/>
   Heloisa Candello, Claudio Pinhanez, Mauro Pichiliani, Paulo Cavalin, Flavio Figueiredo, Marisa Vasconcelos, Haylla Do Carmo <br/>
   ACM Conference on Human Factors in Computing - CHI 2019 <br/>
-  [PDF](papers/candello2018.pdf)
+  [PDF](papers/candello2019.pdf)
   
 * *Fast Estimation of Causal Interactions using Wold Processes* <br/>
   Flavio Figueiredo, Guilherme Borges, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
