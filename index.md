@@ -16,14 +16,14 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
 
 * *Quantifying Disruptive Influence in the AllMusic Guide* <br/>
   Flavio Figueiredo and Nazareno Andrade <br/>
-  ACM Hypertext Conference - HT 2019 <br/>
+  International Symposium for Music Information Retrieval  ISMIR 2019 <br/>
   [PDF](papers/figueiredo2019.pdf)&nbsp; [Code + Data](https://github.com/flaviovdf/allmusic-disruption)
 
 * *Analyzing and Modeling User Curiosity  in Online Content Consumption: A LastFM Case Study* <br/>
   Alexandre M. Souza, Flavio Figueiredo and Jussara M. Almeida <br/>
   Advances in Social Network Analysis and Mining - ASONAM 2019 <br/>
   [PDF](papers/souza2019.pdf)
-  
+
 * *Towards Understanding Political Interactions on Instagram.* <br/>
   Martino Trevisan, Luca Vassio, Idilio Drago, Marco Mellia, Fabricio Murai, Flavio Figueiredo, Ana Paula Couto da Silva, Jussara M. Almeida <br/>
   ACM Hypertext Conference - HT 2019 <br/>
@@ -33,12 +33,12 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
   Heloisa Candello, Claudio Pinhanez, Mauro Pichiliani, Paulo Cavalin, Flavio Figueiredo, Marisa Vasconcelos, Haylla Do Carmo <br/>
   ACM Conference on Human Factors in Computing - CHI 2019 <br/>
   [PDF](papers/candello2019.pdf)
-  
+
 * *Fast Estimation of Causal Interactions using Wold Processes* <br/>
   Flavio Figueiredo, Guilherme Borges, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
   Neural Information Processing Systems (NIPS) - 2018 <br/>
   [PDF](papers/figueiredo2018-nips.pdf) &nbsp; [Code](https://github.com/flaviovdf/granger-busca/) &nbsp; [Preprint](https://arxiv.org/abs/1807.04595)
-  
+
 * *Towards Understanding the Consumption of Video-Ads on YouTube* <br/>
   Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida <br/>
   The Journal of Web Science, 2018 <br />
@@ -152,7 +152,7 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
   Information Processing Management.
   http://dx.doi.org/10.1016/j.ipm.2012.03.003 <br/>
   [PDF](papers/figueiredo2012-ipm.pdf)
-  
+
 * *The Tube over Time: Characterizing Popularity Growth of YouTube Videos* <br/>
   Flavio Figueiredo, Fabricio Benevenuto, Jussara Almeida <br/>
   ACM International Conference on Web Search and Data Mining - WSDM 2011 <br/>
@@ -173,7 +173,7 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
   Elizeu Santos-Neto, Flavio Figueiredo, Jussara Almeida, Miranda Mowbray, Marcos Gonçalves, Matei Ripeanu <br/>
   IEEE International Symposium on Social Intelligence and Networking - SIN'2010 <br/>
   [PDF](papers/santosneto2010-sin.pdf)
-  
+
 * *Evidence of Quality of Textual Features on the Web 2.0* <br/>
   Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos Gonçalves, David Fernandes, Edleno Moura, Marco Cristo. <br/>
   ACM Conference on Information and Knowledge Management - CIKM 2009 <br/>
