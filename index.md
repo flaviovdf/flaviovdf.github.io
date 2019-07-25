@@ -17,7 +17,8 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
 * *Quantifying Disruptive Influence in the AllMusic Guide* <br/>
   Flavio Figueiredo and Nazareno Andrade <br/>
   International Symposium for Music Information Retrieval  ISMIR 2019 <br/>
-  [PDF](papers/figueiredo2019.pdf)&nbsp; [Code + Data](https://github.com/flaviovdf/allmusic-disruption)
+  `We fixed some minor typos found in the published version` <br>
+  [PDF](papers/figueiredo2019-ismir.pdf)&nbsp; [Code + Data](https://github.com/flaviovdf/allmusic-disruption)
 
 * *Analyzing and Modeling User Curiosity  in Online Content Consumption: A LastFM Case Study* <br/>
   Alexandre M. Souza, Flavio Figueiredo and Jussara M. Almeida <br/>
