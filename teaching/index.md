@@ -14,7 +14,7 @@ permalink: /teaching/
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
 
 ## 2019-2
-   * [Introdução à Ciência de Dados (ver material 2019.1 por enquanto)](https://github.com/icd-ufmg/2019.1)
+   * [Introdução à Ciência de Dados](https://github.com/icd-ufmg/2019.2)
    * [Human Centered Machine Learning](https://docs.google.com/document/d/1mGAOLGnWxsxzCPLBvt4w7dIu5FbHco9e3mLR8ymkvzc/edit?usp=sharing)
 
 
