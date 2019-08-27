@@ -15,12 +15,12 @@ permalink: /teaching/
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
 
 ## 2019-2
-   * [Introdução à Ciência de Dados](https://github.com/icd-ufmg/2019.2)
-   * [Human Centered Machine Learning (Graduate)](https://drive.google.com/open?id=173s0BS44S74Wag5mKQPZFRlB49ZTY7im)
-   * [Deep Learning (Graduate)](https://deep-ufmg.github.io/)
+   * Introdução à Ciência de Dados
+   * Human Centered Machine Learning (Graduate)
+   * Deep Learning (Graduate)
    
 ## 2019-1
-  * [Introdução à Ciência de Dados](https://github.com/icd-ufmg/2019.1)
+  * Introdução à Ciência de Dados
   * Programação e desenvolvimento de software 2
   * Ethics in Computer Science Research (Graduate)
 
