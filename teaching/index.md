@@ -6,6 +6,7 @@ permalink: /teaching/
 
 ## Teaching Material
 
+  * [Deep Learning (Graduate)](https://deep-ufmg.github.io/)
   * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
   * [Human Centered Machine Learning](https://drive.google.com/open?id=173s0BS44S74Wag5mKQPZFRlB49ZTY7im)
   * [Introdução à Ciência de Dados](https://github.com/icd-ufmg)
@@ -15,11 +16,13 @@ permalink: /teaching/
 
 ## 2019-2
    * [Introdução à Ciência de Dados](https://github.com/icd-ufmg/2019.2)
-   * [Human Centered Machine Learning](https://drive.google.com/open?id=173s0BS44S74Wag5mKQPZFRlB49ZTY7im)
-
+   * [Human Centered Machine Learning (Graduate)](https://drive.google.com/open?id=173s0BS44S74Wag5mKQPZFRlB49ZTY7im)
+   * [Deep Learning (Graduate)](https://deep-ufmg.github.io/)
+   
 ## 2019-1
   * [Introdução à Ciência de Dados](https://github.com/icd-ufmg/2019.1)
   * Programação e desenvolvimento de software 2
+  * Ethics in Computer Science Research (Graduate)
 
 ## 2018-2
   * Programação e desenvolvimento de software 2
