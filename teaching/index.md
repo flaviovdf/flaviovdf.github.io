@@ -4,11 +4,11 @@ title: Teaching Material
 permalink: /teaching/
 ---
 
-## Teaching Material
+## Teaching Material Overall
 
   * [Deep Learning (Graduate)](https://deep-ufmg.github.io/)
   * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
-  * [Human Centered Machine Learning](https://drive.google.com/open?id=173s0BS44S74Wag5mKQPZFRlB49ZTY7im)
+  * [Human Centered Machine Learning (Graduate)](https://drive.google.com/open?id=173s0BS44S74Wag5mKQPZFRlB49ZTY7im)
   * [Introdução à Ciência de Dados](https://github.com/icd-ufmg)
   * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
   * [Programação e desenvolvimento de software 2](https://github.com/flaviovdf/programacao-2)
