@@ -18,7 +18,7 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
   Flavio Figueiredo and Nazareno Andrade <br/>
   International Symposium for Music Information Retrieval  ISMIR 2019 <br/>
   `We fixed some minor typos found in the published version` <br>
-  [PDF](papers/figueiredo2019-ismir.pdf)&nbsp; [Code + Data](https://github.com/flaviovdf/allmusic-disruption)
+  [PDF](papers/ismir2019_disruption.pdf)&nbsp; [Code + Data](https://github.com/flaviovdf/allmusic-disruption)
 
 * *Analyzing and Modeling User Curiosity  in Online Content Consumption: A LastFM Case Study* <br/>
   Alexandre M. Souza, Flavio Figueiredo and Jussara M. Almeida <br/>
