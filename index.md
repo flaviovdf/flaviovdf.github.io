@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-|-------------------------------|---------------------------|------------------------------|-----------------------|-----------------------------------------|--------------|
-| [Publications](#publications) | [Experience](#experience) |  [Open Source](#open-source) | [Teaching](/teaching) | [Medium](https://medium.com/@flaviovdf) | [CV](cv.pdf) |
+|-------------------------------|---------------------------|------------------------------|-----------------------|
+| [Publications](#publications) | [Experience](#experience) |  [Open Source](#open-source) | [Teaching](/teaching) |
 
 - - -
 
@@ -13,6 +13,30 @@ Hello and welcome to my home page. I hold a PhD in Computer Science from the [Fe
 ## Publications (sorted by year)
 
 **Conference, journal and workshop papers (English)**
+
+* *Measuring disruption in song similarity networks* <br/>
+  Felipe Falcão, Nazareno Andrade, Flavio Figueiredo, Diego Silva and Fabio Morais <br/>
+  International Symposium for Music Information Retrieval  ISMIR 2020
+  
+* *Understanding Targeted Video-Ads in Children’s Content* <br/>
+  Flavio Figueiredo, Felipe Giori, Guilherme Soares, Mariana M. Arantes, Fabricio Benevenuto and Jussara M Almeira <br/>
+  ACM Hypertext Conference - HT 2020
+
+* *Networked Point Process Models Under the Lens of Scrutiny* <br/>
+  Guilherme Borges, Flavio Figueiredo, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
+  European Conference on Machine Learning and Principles and Practice of  Knowledge Discovery - ECML/PKDD 2020 <br/>
+  
+* *Quantifying Disruptive Influence in the AllMusic Guide* <br/>
+  Flavio Figueiredo and Nazareno Andrade <br/>
+  International Symposium for Music Information Retrieval  ISMIR 2019 <br/>
+  `We fixed some minor typos found in the published version` <br>
+  [PDF](papers/ismir2019_disruption.pdf)&nbsp; [Code + Data](https://github.com/flaviovdf/allmusic-disruption)
+  
+* *Quantifying Disruptive Influence in the AllMusic Guide* <br/>
+  Flavio Figueiredo and Nazareno Andrade <br/>
+  International Symposium for Music Information Retrieval  ISMIR 2019 <br/>
+  `We fixed some minor typos found in the published version` <br>
+  [PDF](papers/ismir2019_disruption.pdf)&nbsp; [Code + Data](https://github.com/flaviovdf/allmusic-disruption)
 
 * *Quantifying Disruptive Influence in the AllMusic Guide* <br/>
   Flavio Figueiredo and Nazareno Andrade <br/>
