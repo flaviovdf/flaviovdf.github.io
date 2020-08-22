@@ -14,6 +14,10 @@ permalink: /teaching/
   * [Programação e desenvolvimento de software 2](https://github.com/flaviovdf/programacao-2)
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
 
+## 2020-1 (Ensino Remoto Emergencial)
+  * Introdução à Ciência de Dados
+  * Programação e desenvolvimento de software 2
+
 ## 2019-2
    * Introdução à Ciência de Dados
    * Human Centered Machine Learning (Graduate)
@@ -25,7 +29,7 @@ permalink: /teaching/
   * Ethics in Computer Science Research (Graduate)
 
 ## 2018-2
-  * Programação e desenvolvimento de software 2
+  * Introdução à Ciência de Dados
   * Programação e desenvolvimento de software 2
 
 ## 2018-1
