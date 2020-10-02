@@ -13,10 +13,10 @@ permalink: /teaching/
   * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
   * [Programação e desenvolvimento de software 2](https://github.com/flaviovdf/programacao-2)
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
-  * [Music Information Retreival](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
+  * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
 
 ## 2020-2 (Ensino Remoto Emergencial)
-  * [Music Information Retreival](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
+  * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
   * Introdução à Ciência de Dados
 
 ## 2020-1 (Ensino Remoto Emergencial)
