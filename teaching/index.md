@@ -9,14 +9,25 @@ permalink: /teaching/
   * [Deep Learning (Graduate)](https://deep-ufmg.github.io/)
   * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
   * [Human Centered Machine Learning (Graduate)](https://drive.google.com/open?id=173s0BS44S74Wag5mKQPZFRlB49ZTY7im)
-  * [Introdução à Ciência de Dados](https://github.com/icd-ufmg)
+  * [Introdução à Ciência de Dados](https://icd-ufmg.github.io)
   * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
-  * [Programação e desenvolvimento de software 2](https://github.com/flaviovdf/programacao-2)
+  * [Programação e desenvolvimento de software 2](https://flaviovdf.github.io/pds2-ufmg)
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
   * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
 
+## 2022-1 (Ensino Remoto Emergencial)
+  * Introdução à Ciência de Dados
+  * Programação e desenvolvimento de software 2
+
+## 2021-2 (Ensino Remoto Emergencial)
+  * Music Information Retrieval (Graduate)
+  * Introdução à Ciência de Dados
+  
+## 2021-1 (Ensino Remoto Emergencial)
+  * Introdução à Ciência de Dados
+
 ## 2020-2 (Ensino Remoto Emergencial)
-  * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
+  * Music Information Retrieval (Graduate)
   * Introdução à Ciência de Dados
 
 ## 2020-1 (Ensino Remoto Emergencial)
