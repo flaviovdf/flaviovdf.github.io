@@ -11,7 +11,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   Flavio Figueiredo is a Computer Science Professor @ UFMG
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://flaviovdf.github.io." # the base hostname & protocol for your site
+url: "http://flaviovdf.github.io" # the base hostname & protocol for your site
 twitter_username: flaviovdf
 github_username:  flaviovdf
 
