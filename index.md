@@ -10,6 +10,20 @@ layout: page
 
 Hello and welcome to my home page. I hold a PhD in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). Currently, I work as a Professor @ UFMG. Mostly, I perform research in data science and machine learning focused on aspects of human and social behavior.
 
+## Archive
+
+Browse all posts by month and year.
+
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+{% for yearMonth in postsByYearMonth %}
+  <h2>{{ yearMonth.name }}</h2>
+  <ul>
+    {% for post in yearMonth.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 ## Publications (sorted by year)
 
 **Conference, journal and workshop papers (English)**
