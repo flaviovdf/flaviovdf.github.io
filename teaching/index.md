@@ -15,7 +15,7 @@ permalink: /teaching/
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
   * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
 
-## 2022-1 (Ensino Remoto Emergencial)
+## 2022-1
   * Introdução à Ciência de Dados
   * Programação e desenvolvimento de software 2
 
