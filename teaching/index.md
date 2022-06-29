@@ -6,14 +6,22 @@ permalink: /teaching/
 
 ## Teaching Material Overall
 
+### Current
+
   * [Deep Learning (Graduate)](https://deep-ufmg.github.io/)
+  * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
+  * [Introdução à Ciência de Dados](https://icd-ufmg.github.io)
+  * [Programação e desenvolvimento de software 2](https://flaviovdf.github.io/pds2-ufmg)
+
+### Older
+
+  * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
   * [Estruturas de Dados](https://github.com/flaviovdf/estruturas-de-dados)
   * [Human Centered Machine Learning (Graduate)](https://drive.google.com/open?id=173s0BS44S74Wag5mKQPZFRlB49ZTY7im)
-  * [Introdução à Ciência de Dados](https://icd-ufmg.github.io)
-  * [Programação e desenvolvimento de software 1](https://github.com/flaviovdf/programacao)
-  * [Programação e desenvolvimento de software 2](https://flaviovdf.github.io/pds2-ufmg)
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
-  * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
+  * Data Science for Networks @ Polito
+
+## Per Semester
 
 ## 2022-2
   * Deep Learning
