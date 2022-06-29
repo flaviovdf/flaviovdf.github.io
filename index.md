@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-|-------------------------------|---------------------------|------------------------------|-----------------------|
-| [Publications](#publications) | [Experience](#experience) |  [Open Source](#open-source) | [Teaching](/teaching) |
+|-------------------------------|---------------------------|------------------------------|-----------------------|---------------|
+| [Publications](#publications) | [Experience](#experience) |  [Open Source](#open-source) | [Teaching](/teaching) | [Blog](/blog) |
 
 - - -
 
