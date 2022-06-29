@@ -4,7 +4,7 @@ title: Teaching Material
 permalink: /teaching/
 ---
 
-## Teaching Material Overall
+## Teaching Material
 
 ### Current
 
