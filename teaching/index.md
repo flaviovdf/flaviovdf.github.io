@@ -15,19 +15,24 @@ permalink: /teaching/
   * [Sistemas Operacionais](https://github.com/flaviovdf/sistemas-operacionais)
   * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
 
+## 2022-2
+  * Deep Learning
+  * Music Information Retrieval
+  * Programação e desenvolvimento de software 2
+  
 ## 2022-1
   * Introdução à Ciência de Dados
   * Programação e desenvolvimento de software 2
 
 ## 2021-2 (Ensino Remoto Emergencial)
-  * Music Information Retrieval (Graduate)
+  * Music Information Retrieval
   * Introdução à Ciência de Dados
   
 ## 2021-1 (Ensino Remoto Emergencial)
   * Introdução à Ciência de Dados
 
 ## 2020-2 (Ensino Remoto Emergencial)
-  * Music Information Retrieval (Graduate)
+  * Music Information Retrieval
   * Introdução à Ciência de Dados
 
 ## 2020-1 (Ensino Remoto Emergencial)
