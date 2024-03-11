@@ -8,10 +8,12 @@ permalink: /teaching/
 
 ### Current
 
+  * [Fundamentos de Ciência de Dados](https://flaviovdf.io/fcd/)
+  * [Introduction to Deep Learning (Under-Graduate)](https://flaviovdf.io/deep/)
   * [Deep Learning (Graduate)](https://deep-ufmg.github.io/)
   * [Music Information Retrieval](https://docs.google.com/document/d/1UeDOMEwAl-XAONn7pS6_a7DtBrkGSft04EUwRI-xUQc)
   * [Introdução à Ciência de Dados](https://icd-ufmg.github.io)
-  * [Programação e desenvolvimento de software 2](https://flaviovdf.github.io/pds2-ufmg)
+  * [Programação e desenvolvimento de software 2](https://flaviovdf.io/pds2-ufmg)
 
 ### Older
 
@@ -27,7 +29,7 @@ permalink: /teaching/
   * Deep Learning
   * Music Information Retrieval
   * Programação e desenvolvimento de software 2
-  
+
 ### 2022-1
   * Introdução à Ciência de Dados
   * Programação e desenvolvimento de software 2
@@ -35,7 +37,7 @@ permalink: /teaching/
 ### 2021-2 (Ensino Remoto Emergencial)
   * Music Information Retrieval
   * Introdução à Ciência de Dados
-  
+
 ### 2021-1 (Ensino Remoto Emergencial)
   * Introdução à Ciência de Dados
 
@@ -51,7 +53,7 @@ permalink: /teaching/
    * Introdução à Ciência de Dados
    * Human Centered Machine Learning (Graduate)
    * Deep Learning (Graduate)
-   
+
 ### 2019-1
   * Introdução à Ciência de Dados
   * Programação e desenvolvimento de software 2
@@ -64,7 +66,7 @@ permalink: /teaching/
 ### 2018-1
   * Estruturas de Dados (ex AEDS2)
   * Sistemas Operacionais
-  
+
 ### 2017-2
   * [Algoritmos e Estrutura de Dados 1](https://flaviovdf.github.io/AEDS1-2017-2)
   * [Sistemas Operacionais](https://flaviovdf.github.io/SO-2017-2)
