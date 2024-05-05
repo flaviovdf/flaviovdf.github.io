@@ -25,6 +25,20 @@ permalink: /teaching/
 
 ## Per Semester
 
+### 2024-1
+  * Introduction to Deep Learning (Undergraduate level Deep Learning)
+  * Introdução a Ciência de Dados
+  * Fundamentos de Ciência de Dados
+
+### 2023-2
+  * Deep Learning
+  * Advanced Seminars in the Mathematics of Deep Learning (w. [Gabriel Coutinho](https://homepages.dcc.ufmg.br/~gabriel/))
+  * Introdução a Ciência de Dados
+
+### 2023-1
+  * Introdução a Ciência de Dados
+  * Programação e desenvolvimento de software 2
+
 ### 2022-2
   * Deep Learning
   * Music Information Retrieval
