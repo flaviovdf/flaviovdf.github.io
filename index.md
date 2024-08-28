@@ -8,7 +8,7 @@ layout: page
 
 ## **Flavio** **V**inicius **D**iniz de **Figueiredo**
 
-Hello and welcome to my home page. I hold a PhD in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). Currently, I work as a Professor @ UFMG. Mostly, I perform research in data science and machine learning focused on aspects of human and social behavior.
+Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mostly, I perform research in data science and machine learning focused on complex datasets, mainly on human and social behavior. My research is performed an [LabUAI](https://uai.science). I hold a PhD in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). 
 
 ## Publications (sorted by year)
 
