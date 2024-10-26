@@ -44,6 +44,14 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
 
 #### 2022
 
+* *Metrics of social curiosity: The WhatsApp case* <br/>
+  Alexandre Magno Sousa, Jussara M Almeida, Flavio Figueiredo <br/>
+  Online Social Networks and Media
+
+* *Understanding effects of moderation and migration on online video sharing platforms* <br/>
+  Gabriel Luis Santos Freire, Tales Panoutsos, Lucas Perez, Fabricio Benevenuto, Flavio Figueiredo <br/>
+  33rd ACM Conference on Hypertext and Social Media
+
 * *Initial Results for Pairwise Causal Discovery Using Quantitative Information Flow* <br/>
   Felipe Giori, Flavio Figueiredo <br/>
   NeurIPS 2022 Workshop on Causal Machine Learning for Real-World Impact (CML4Impact 2022).
@@ -61,10 +69,6 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
 * *Towards website domain name classification using graph-based semi-supervised learning* <br/>
   Azadeh Faroughi, Andrea Morichetta, Luca Vassio, Flavio Figueiredo, Marco Mellia, Reza Javidan <br/>
   Computer Networks
-
-* *Networked point process models under the lens of scrutiny*<br/>
-  Guilherme Borges, Flavio Figueiredo, Renato M Assunção, Pedro OS Vaz-de-Melo <br/>
-  Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2020
 
 #### 2020
 
