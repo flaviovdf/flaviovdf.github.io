@@ -12,7 +12,31 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
 
 ## Publications (sorted by year)
 
-**Conference, journal and workshop papers (English)**
+### Conference, journal, and workshop papers (English)
+
+#### 2024
+
+* *Surprising Patterns in Musical Influence Networks* <br/>
+  Flavio Figueiredo, Tales Panoutsos, Nazareno Andrade
+  Latin American Workshop on Music Information Retrieval  LAMIR 2024
+
+* *Assessing the Impact of Sampling, Remixes, and Covers On Original Song Popularity* <br/>
+  Guilherme Soares, Flavio Figueiredo
+  Latin American Workshop on Music Information Retrieval  LAMIR 2024
+
+* *I’ve Heard This Before: Initial Results on Tiktok’s Impact On the Re-Popularization of Songs.*
+  Breno Matos, Rennan Cordeiro, Francisco Galuppo, Flavio Figueiredo
+  Latin American Workshop on Music Information Retrieval  LAMIR 2024
+
+* *Do we need more complex representations for structure? A comparison of note duration representation for Music Transformers* <br/>
+  Gabriel Gomes, Deborah Guimarães, Alexei Machado, Flavio Figueiredo
+  15th International Workshop on Machine Learning and Music 2024
+
+* *A Comprehensive View of the Biases of Toxicity and Sentiment Analysis Methods Towards Utterances with African American English Expressions*
+  Guilherme Andrade, Luiz Nery, Fabricio Benevenuto, Flavio Figueiredo, Savvas Zannettou
+  30th Brazilian Symposium on Multimedia and Web Systems
+
+#### 2020
 
 * *Measuring disruption in song similarity networks* <br/>
   Felipe Falcão, Nazareno Andrade, Flavio Figueiredo, Diego Silva and Fabio Morais <br/>
@@ -25,6 +49,8 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
 * *Networked Point Process Models Under the Lens of Scrutiny* <br/>
   Guilherme Borges, Flavio Figueiredo, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
   European Conference on Machine Learning and Principles and Practice of  Knowledge Discovery - ECML/PKDD 2020 <br/>
+
+#### 2019
 
 * *Quantifying Disruptive Influence in the AllMusic Guide* <br/>
   Flavio Figueiredo and Nazareno Andrade <br/>
@@ -47,6 +73,8 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   ACM Conference on Human Factors in Computing - CHI 2019 <br/>
   [PDF](papers/candello2019.pdf)
 
+#### 2018
+
 * *Fast Estimation of Causal Interactions using Wold Processes* <br/>
   Flavio Figueiredo, Guilherme Borges, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
   Neural Information Processing Systems (NIPS) - 2018 <br/>
@@ -63,6 +91,8 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   Brazilian Symposium on Multimedia and the Web - 2018 <br/>
   [PDF](papers/arantes2018-webmedia.pdf)
 
+#### 2017
+
 * *Mining and modeling web trajectories from passive traces* <br/>
   Luca Vassio, Marco Mellia, Flavio Figueiredo, Ana Paula Couto da Silva, Jussara M Almeida <br/>
   IEEE International Conference on Big Data (2017) <br/>
@@ -77,6 +107,8 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   Heloisa Candello, Claudio Pinhanez, Flavio Figueiredo <br/>
   ACM Conference on Human Factors in Computing - CHI 2017 <br/>
   [PDF](papers/candello2017-chi.pdf)
+
+#### 2016
 
 * *TribeFlow: Mining & Predicting User Trajectories* <br/>
   Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, Christos Faloutsos <br/>
@@ -122,10 +154,14 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   `Best Workshop Paper Award` <br/>
   [PDF](papers/cavalin2016-industry.pdf)
 
+#### 2015
+
 * *Modeling and Mining Information Popularity Online* <br/>
   Flavio Figueiredo <br/>
   Netsci-X (Presentation only) - 2015 <br/>
   [PDF](papers/figueiredo2015-netscix.pdf)
+
+#### 2014
 
 * *On the Dynamics of Social Media Popularity: A YouTube Case Study* <br/>
   Flavio Figueiredo, Jussara M. Almeida, Marcos André Gonçalves, Fabrício Benevenuto <br/>
@@ -155,16 +191,22 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   ACM Conference on Human Factors in Computing - CHI 2014 <br/>
   [PDF](papers/figueiredo2014-chi.pdf) &nbsp; [Data/Code](http://github.com/flaviovdf/yourank) &nbsp; [Presentation](papers/figueiredo2014-chi-slides.pdf)
 
+#### 2013
+
 * *On the Prediction of Popularity Trends for User Generated Videos* <br/>
   Flavio Figueiredo <br/>
   International Conference on Web Search and Data Mining - WSDM 2013 <br/>
   [PDF](papers/figueiredo2013-wsdmdoc.pdf)
+
+#### 2012
 
 * *Assessing the Quality of Textual Features in Social Media* <br/>
   Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos Gonçalves, David Fernandes, Edleno Moura. <br/>
   Information Processing Management.
   http://dx.doi.org/10.1016/j.ipm.2012.03.003 <br/>
   [PDF](papers/figueiredo2012-ipm.pdf)
+
+#### 2011
 
 * *The Tube over Time: Characterizing Popularity Growth of YouTube Videos* <br/>
   Flavio Figueiredo, Fabricio Benevenuto, Jussara Almeida <br/>
@@ -175,6 +217,8 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   Flavio Figueiredo, Fabricio Benevenuto, Jussara Almeida <br/>
   In Thesis and Disserations Workshop - WebMedia 2011 <br/>
   [PDF](papers/figueiredo2011-wtd.pdf)
+
+#### 2010
 
 * *On the Quality of Information for Web 2.0 Services* <br/>
   Jussara Almeida, Marcos Gonçalves, Flavio Figueiredo, Fabiano Belém, Henrique Pinto <br/>
@@ -187,10 +231,14 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   IEEE International Symposium on Social Intelligence and Networking - SIN'2010 <br/>
   [PDF](papers/santosneto2010-sin.pdf)
 
+#### 2009
+
 * *Evidence of Quality of Textual Features on the Web 2.0* <br/>
   Flavio Figueiredo, Fabiano Belém, Henrique Pinto, Jussara Almeida, Marcos Gonçalves, David Fernandes, Edleno Moura, Marco Cristo. <br/>
   ACM Conference on Information and Knowledge Management - CIKM 2009 <br/>
   [PDF](papers/figueiredo2009-cikm.pdf) &nbsp; [Presentation](papers/figueiredo2009-cikm-slides.ppt)
+
+#### 2008
 
 * *On the Planning of a Hybrid IT Infrastructure* <br/>
   Paulo Ditarso, Flavio de Figueiredo, David Candeia, Francisco Brasileiro, Alvaro Coelho. <br/>
@@ -203,24 +251,28 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   Operations and Management Symposium  - NOMS 2008 <br/>
   [PDF](papers/coelho2008-bdim.pdf)
 
+#### 2007
+
 * *Bridging the High Performance Computing Gap: the OurGrid Experience* <br/>
   Francisco Brasileiro, Eliane Araújo, William Voorsluys, Milena Oliveira, Flavio Figueiredo
   Latin America Grid Workshop - LAGrid07, held in conjunction with CCGrid 2007 <br/>
   [PDF](papers/brasileiro2007-latam.pdf)
+
+#### 2006
 
 * *Implementing a Distributed Execution Service for a Grid Broker* <br/>
   Flavio Figueiredo, Francisco V. Brasileiro, Andrey E. Brito. <br/>
   Fault Tolerance Workshop in conjunction with the Brazilian Symposium of Computer Networks
   [PDF](papers/figueiredo2006-wtf.pdf)
 
-**Tech Reports**
+### Tech Reports
 
 * *Assessing the Value of Peer-Produced Information for Exploratory Search* <br/>
   Elizeu Santos-Neto, Flavio Figueiredo, Nigini Oliveira, Nazareno Andrade,
   Jussara Almeida, Matei Ripeanu <br/>
   [Arxix](http://arxiv.org/abs/1510.03004) &nbsp; [Code](http://github.com/flaviovdf/tag_assess)
 
-**Conference papers (Portuguese)**
+### Conference papers (Portuguese)
 
 * *Uma Caracterização dos Padrões de Navegação de Usuários em uma Aplicação
   Social de Streaming de Vídeo* <br/>
@@ -247,7 +299,7 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   Proceedings of the III Brazilian Symposium of Information Systems <br/>
   [DOC](papers/girafas_sbsi2006.doc)
 
-**Dissertations**
+### Dissertations and Thesis
 
 * *(PhD) Understanding, Modeling and Predicting the Popularity of Online Content on Social Media Applications* <br/>
   Flavio Figueiredo <br/>
