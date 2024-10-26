@@ -17,24 +17,54 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
 #### 2024
 
 * *Surprising Patterns in Musical Influence Networks* <br/>
-  Flavio Figueiredo, Tales Panoutsos, Nazareno Andrade
+  Flavio Figueiredo, Tales Panoutsos, Nazareno Andrade <br/>
   Latin American Workshop on Music Information Retrieval  LAMIR 2024
 
 * *Assessing the Impact of Sampling, Remixes, and Covers On Original Song Popularity* <br/>
-  Guilherme Soares, Flavio Figueiredo
+  Guilherme Soares, Flavio Figueiredo <br/>
   Latin American Workshop on Music Information Retrieval  LAMIR 2024
 
-* *I’ve Heard This Before: Initial Results on Tiktok’s Impact On the Re-Popularization of Songs.*
-  Breno Matos, Rennan Cordeiro, Francisco Galuppo, Flavio Figueiredo
+* *I’ve Heard This Before: Initial Results on Tiktok’s Impact On the Re-Popularization of Songs.* <br/>
+  Breno Matos, Rennan Cordeiro, Francisco Galuppo, Flavio Figueiredo <br/>
   Latin American Workshop on Music Information Retrieval  LAMIR 2024
 
 * *Do we need more complex representations for structure? A comparison of note duration representation for Music Transformers* <br/>
-  Gabriel Gomes, Deborah Guimarães, Alexei Machado, Flavio Figueiredo
+  Gabriel Gomes, Deborah Guimarães, Alexei Machado, Flavio Figueiredo <br/>
   15th International Workshop on Machine Learning and Music 2024
 
 * *A Comprehensive View of the Biases of Toxicity and Sentiment Analysis Methods Towards Utterances with African American English Expressions*
-  Guilherme Andrade, Luiz Nery, Fabricio Benevenuto, Flavio Figueiredo, Savvas Zannettou
+  Guilherme Andrade, Luiz Nery, Fabricio Benevenuto, Flavio Figueiredo, Savvas Zannettou <br/>
   30th Brazilian Symposium on Multimedia and Web Systems
+
+#### 2023
+
+* *Crowdsourcing Pleasantness and Safety Perceptions: An Analysis through Multiple Rankings and Socio-Demographic Groups* <br/>
+  David Candeia, Flavio Figueiredo, Nazareno Andrade <br/>
+  Journal of Urban Technology
+
+#### 2022
+
+* *Initial Results for Pairwise Causal Discovery Using Quantitative Information Flow* <br/>
+  Felipe Giori, Flavio Figueiredo <br/>
+  NeurIPS 2022 Workshop on Causal Machine Learning for Real-World Impact (CML4Impact 2022).
+
+* *A New Similarity Space Tailored for Supervised Deep Metric Learning*  <br/>
+  Pedro Barros, Fabiane Queiroz, Flávio Figueiredo, Jefersson A Dos Santos, Heitor Ramos <br/>
+  ACM Transactions on Intelligent Systems and Technology
+
+#### 2021
+
+* *Effects of population mobility on the COVID-19 spread in Brazil* <br/>
+   Eduarda TC Chagas, Pedro H Barros, Isadora Cardoso-Pereira, Igor V Ponte, Pablo Ximenes, Flávio Figueiredo, Fabricio Murai, Ana Paula Couto da Silva, Jussara M Almeida, Antonio AF Loureiro, Heitor S Ramos <br/>
+   PLOS One
+
+* *Towards website domain name classification using graph-based semi-supervised learning* <br/>
+  Azadeh Faroughi, Andrea Morichetta, Luca Vassio, Flavio Figueiredo, Marco Mellia, Reza Javidan <br/>
+  Computer Networks
+
+* *Networked point process models under the lens of scrutiny*<br/>
+  Guilherme Borges, Flavio Figueiredo, Renato M Assunção, Pedro OS Vaz-de-Melo <br/>
+  Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2020
 
 #### 2020
 
@@ -49,6 +79,10 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
 * *Networked Point Process Models Under the Lens of Scrutiny* <br/>
   Guilherme Borges, Flavio Figueiredo, Pedro O. S. Vaz de Melo, Renato M. Assunção <br/>
   European Conference on Machine Learning and Principles and Practice of  Knowledge Discovery - ECML/PKDD 2020 <br/>
+
+* *Federated and secure cloud services for building medical image classifiers on an intercontinental infrastructure* <br/>
+  Ignacio Blanquer, Francisco Brasileiro, Andrey Brito, Amanda Calatrava, Andre Carvalho, Christof Fetzer, Flavio Figueiredo, Ronny Petterson Guimaraes, Leandro Marinho, Wagner Meira Jr, Altigran Silva, Angel Alberich-Bayarri, Eduardo Camacho-Ramos, Ana Jimenez-Pastor, Antonio Luiz L Ribeiro, Bruno Ramos Nascimento, Fabio Silva <br/>
+  Future Generation Computer Systems
 
 #### 2019
 
