@@ -32,6 +32,13 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   Gabriel Gomes, Deborah Guimarães, Alexei Machado, Flavio Figueiredo <br/>
   15th International Workshop on Machine Learning and Music 2024
 
+* *A Systematic Review of Deep Learning for Structural Geological Interpretation* <br/>
+  Gustavo Lúcius Fernandes, Flavio Figueiredo, Raphael Siston Hatushika, Maria Luiza Leão1, Breno Augusto Mariano, Bruno
+Augusto Alem˜ao Monteiro1, Fernando Tonucci de Cerqueira
+Oliveira1, Tales Panoutsos1, Jo˜ao Pedro Pires1, Thiago Martin
+Poppe, Frederico Zavam <br/>
+  Data Mining and Knowledge Discovery Journal 2024
+
 * *A Comprehensive View of the Biases of Toxicity and Sentiment Analysis Methods Towards Utterances with African American English Expressions*
   Guilherme Andrade, Luiz Nery, Fabricio Benevenuto, Flavio Figueiredo, Savvas Zannettou <br/>
   30th Brazilian Symposium on Multimedia and Web Systems
