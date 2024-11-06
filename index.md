@@ -33,7 +33,7 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
   15th International Workshop on Machine Learning and Music 2024
 
 * *A Systematic Review of Deep Learning for Structural Geological Interpretation* <br/>
-  Gustavo Lúcius Fernandes, Flavio Figueiredo, Raphael Siston Hatushika, Maria Luiza Leão1, Breno Augusto Mariano, Bruno Augusto Alemão Monteiro, Fernando Tonucci de Cerqueira Oliveira, Tales Panoutsos, João Pedro Pires, Thiago Martin Poppe, Frederico Zavam <br/>
+  Gustavo Lúcius Fernandes, Flavio Figueiredo, Raphael Siston Hatushika, Maria Luiza Leão, Breno Augusto Mariano, Bruno Augusto Alemão Monteiro, Fernando Tonucci de Cerqueira Oliveira, Tales Panoutsos, João Pedro Pires, Thiago Martin Poppe, Frederico Zavam <br/>
   Data Mining and Knowledge Discovery Journal 2024
 
 * *A Comprehensive View of the Biases of Toxicity and Sentiment Analysis Methods Towards Utterances with African American English Expressions*
