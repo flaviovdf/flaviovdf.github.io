@@ -14,6 +14,20 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
 
 ### Conference, journal, and workshop papers (English)
 
+#### 2025
+
+* *An Interpretable Measure for Quantifying Predictive Dependence between Continuous Random Variables* <br/>
+  Renato Assunção, Flávio Figueiredo, Francisco N. Tinoco Júnior, Léo M. de Sá-Freire, Fábio Silva  <br/>
+  SIAM International Conference on Data Mining (SDM'25)
+
+* *Towards Symmetric Low-rank Adapters* <br/>
+  Tales Panoutsos, Flavio Figueiredo, Rodrygo L. T. Santos <br/>
+  COLORAI - Connecting Low-rank Representations in AI - AAAI 2025 Workshop
+
+* *A Systematic Review of Deep Learning for Structural Geological Interpretation* <br/>
+  Gustavo Lúcius Fernandes, Flavio Figueiredo, Raphael Siston Hatushika, Maria Luiza Leão, Breno Augusto Mariano, Bruno Augusto Alemão Monteiro, Fernando Tonucci de Cerqueira Oliveira, Tales Panoutsos, João Pedro Pires, Thiago Martin Poppe, Frederico Zavam <br/>
+  Data Mining and Knowledge Discovery Journal 2025
+  
 #### 2024
 
 * *Surprising Patterns in Musical Influence Networks* <br/>
@@ -31,10 +45,6 @@ Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mos
 * *Do we need more complex representations for structure? A comparison of note duration representation for Music Transformers* <br/>
   Gabriel Gomes, Deborah Guimarães, Alexei Machado, Flavio Figueiredo <br/>
   15th International Workshop on Machine Learning and Music 2024
-
-* *A Systematic Review of Deep Learning for Structural Geological Interpretation* <br/>
-  Gustavo Lúcius Fernandes, Flavio Figueiredo, Raphael Siston Hatushika, Maria Luiza Leão, Breno Augusto Mariano, Bruno Augusto Alemão Monteiro, Fernando Tonucci de Cerqueira Oliveira, Tales Panoutsos, João Pedro Pires, Thiago Martin Poppe, Frederico Zavam <br/>
-  Data Mining and Knowledge Discovery Journal 2024
 
 * *A Comprehensive View of the Biases of Toxicity and Sentiment Analysis Methods Towards Utterances with African American English Expressions*
   Guilherme Andrade, Luiz Nery, Fabricio Benevenuto, Flavio Figueiredo, Savvas Zannettou <br/>
