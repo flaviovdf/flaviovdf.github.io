@@ -1,14 +1,14 @@
 ---
 layout: page
 ---
-|-------------------------------|---------------------------|------------------------------|-----------------------|---------------|
-| [Publications](#publications) | [Experience](#experience) |  [Open Source](#open-source) | [Teaching](/teaching) | [Blog](/blog) |
+|-------------------------------|---------------------------|-----------------------|
+| [Publications](#publications) | [Experience](#experience) | [Teaching](/teaching) |
 
 - - -
 
 ## **Flavio** **V**inicius **D**iniz de **Figueiredo**
 
-Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mostly, I perform research in data science and machine learning focused on complex datasets, mainly on human and social behavior. My research is performed an [LabUAI](https://uai.science). I hold a PhD in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). 
+Hello, and welcome to my home page. Currently, I work as a Professor @ UFMG. Mostly, I perform research in data science and machine learning focused on complex datasets, mainly on human and social behavior. In particular, my research has tackled both from data science (exploratory and hypothesis focused) and machine learning (novel models) multi-modal data such as: music, language/text, graphs, and so-forth.  My research is performed an [LabUAI](https://uai.science). I hold a PhD in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). 
 
 ## Publications (sorted by year)
 
