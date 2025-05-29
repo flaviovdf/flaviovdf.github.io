@@ -8,11 +8,7 @@ layout: page
 
 ## **Flavio** **V**inicius **D**iniz de **Figueiredo**
 
-I am currently a Professor at [Computer Science Department at the Federal University of Minas Gerais (UFMG)](https://dcc.ufmg.br), 
-where I conduct research in data science and machine learning, with a particular focus on complex datasets related 
-to human, cultural and social datasets.
-
-My work bridges exploratory and hypothesis-driven data science with the development of novel machine learning models. 
+I am currently a Professor at [Computer Science Department at the Federal University of Minas Gerais (UFMG)](https://dcc.ufmg.br). My research bridges exploratory and hypothesis-driven data science with the development of novel machine learning models. 
 I am especially interested in multi-modal data, including music, language/text, and networks, among others.
 
 Overall, my research is performed at [LabUAI](https://uai.science), in particular with the
