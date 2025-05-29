@@ -15,7 +15,8 @@ to human, cultural and social datasets.
 My work bridges exploratory and hypothesis-driven data science with the development of novel machine learning models. 
 I am especially interested in multi-modal data, including music, language/text, and networks, among others.
 
-Overall, my research is performed at [LabUAI](https://uai.science). 
+Overall, my research is performed at [LabUAI](https://uai.science), in particular with the
+MOSAIC (Music Oriented Systems and AI for Creativity) group that lives within LabUAI. 
 
 I hold a PhD in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), 
 as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). 
