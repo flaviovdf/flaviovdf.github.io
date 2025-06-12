@@ -9,14 +9,16 @@ layout: page
 ## **Flavio** **V**inicius **D**iniz de **Figueiredo**
 
 I am currently a Professor at [Computer Science Department at the Federal University of Minas Gerais (UFMG)](https://dcc.ufmg.br). I'm mostly
-interest in data driven research focused on social, cultural, and human aspects in computing. In particular, my
-research bridges exploratory and hypothesis-driven data science with the development of novel machine learning models for
+interested in data driven research focused on social, cultural, and human aspects in computing. In particular, my
+research bridges hypothesis-driven data science with the development of novel machine learning models for
 such datasets, this includes music, language/text, graphs and networks, among others.
 
 My research is mostly performed at [LabUAI](https://uai.science), in particular with the
 MOSAIC (Music Oriented Systems and AI for Creativity) group that lives within LabUAI. 
 
-Overall, my reseach interests are: machine learning and data science for social-cultural data; music information retrieval
+Overall, the topics of my research are: machine learning and data science for social-cultural data; music information retrieval.
+
+Regarding other academic duties, I'm quite proud to be one of the founders of the Data Science Undergraduate Degree (BSc) at UFMG. I believe that data science and machine learning literacy are crucial skills in today's world.
 
 I hold a PhD in Computer Science from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br), 
 as well as a BSc also in Computer Science from the [Federal University of Campina Grande (UFCG)](http://ufcg.edu.br). 
