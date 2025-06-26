@@ -30,6 +30,10 @@ During my studies, I was a Google Latin American Award Recipient (two years) and
 
 #### 2025
 
+* *The Polyphonic Audio to Roman Corpus* <br/>
+  Thiago Poppe, Luisa Lopes, Flavio Figueiredo <br/>
+  12th International Conference on Digital Libraries for Musicology (DLfM'25)
+
 * *An Interpretable Measure for Quantifying Predictive Dependence between Continuous Random Variables* <br/>
   Renato Assunção, Flávio Figueiredo, Francisco N. Tinoco Júnior, Léo M. de Sá-Freire, Fábio Silva  <br/>
   SIAM International Conference on Data Mining (SDM'25)
