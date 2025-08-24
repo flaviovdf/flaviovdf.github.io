@@ -14,7 +14,7 @@ research bridges hypothesis-driven data science with the development of novel ma
 such datasets, this includes music, language/text, graphs and networks, among others.
 
 My research is mostly performed at [LabUAI](https://uai.science), in particular with the
-MOSAIC (Music Oriented Systems and AI for Creativity) group that lives within LabUAI. 
+[MOSAIC (Music Oriented Systems and AI for Creativity)](https://mosaic-ufmg.github.io) group that lives within LabUAI. 
 
 Overall, the topics of my research are: machine learning and data science for social-cultural data; music information retrieval.
 
@@ -34,6 +34,14 @@ During my studies, I was a Google Latin American Award Recipient (two years) and
 * *The Polyphonic Audio to Roman Corpus* <br/>
   Thiago Poppe, Luisa Lopes, Flavio Figueiredo <br/>
   12th International Conference on Digital Libraries for Musicology (DLfM'25)
+
+* *Dimensions on the Perception of Users Towards AI Generated Music* <br/>
+  Frederico Pedrosa, Ivan Rodrigues, Alexei Machado, Lucas N. Ferreira, Flavio Figueiredo <br/>
+  19th Simpósio Brasileiro de Computação Musical (SBCM'25)
+
+* *On the Practicality of LLM-Based Compiler Fuzzing* <br/>
+  Gabriel Ricardo, Natanael Júnior, Flavio Figueiredo, Fernando Pereira <br/>
+  29th Brazilian Symposium on Programming Languages (SBLP 2025)
 
 * *An Interpretable Measure for Quantifying Predictive Dependence between Continuous Random Variables* <br/>
   Renato Assunção, Flávio Figueiredo, Francisco N. Tinoco Júnior, Léo M. de Sá-Freire, Fábio Silva  <br/>
